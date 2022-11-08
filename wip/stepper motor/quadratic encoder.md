@@ -1,0 +1,1 @@
+![quad](./attachments/Pasted%20image%2020221021233723.png)

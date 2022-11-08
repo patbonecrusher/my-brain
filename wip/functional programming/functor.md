@@ -1,0 +1,1 @@
+Don't get intimidated by the name. Functors are abstractions that wrap a value into a context and allow mapping over this value. Mapping means applying a function to a value to get another value. 
