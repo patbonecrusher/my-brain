@@ -18,3 +18,9 @@
 ---
 ##  Cloud
 [[Resize EC2 disk]]
+
+---
+## Coding
+
+### Python
+[[Python string interpolation tricks]]
