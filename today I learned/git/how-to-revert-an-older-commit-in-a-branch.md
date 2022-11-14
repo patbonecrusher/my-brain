@@ -1,3 +1,9 @@
+---
+creation date: 2022-11-13 22:15
+modification date: Sunday 13th November 2022, 22:15:08
+tags: engineering, engineering/scm, engineering/scm/git, today_i_leaned
+---
+
 ## Problem statement
 Given the following branches in git: We wanted to revert some changes in the **f5655** commit.
 

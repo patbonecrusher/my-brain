@@ -6,9 +6,9 @@ note type: engineering
 tags: engineering, engineering/motor/stepper, engineering/motor/encoders
 ---
 
-![quad](./attachments/Pasted%20image%2020221021234207.png)
+![quad](Pasted%20image%2020221021234207.png)
 
 
-![bla](./ppr%20vs%20cpr.md)
+![bla](ppr%20vs%20cpr.md)
 
-![quadencoder](./quadratic%20encoder.md)
+![quadencoder](quadratic%20encoder.md)
