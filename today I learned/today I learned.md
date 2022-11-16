@@ -29,6 +29,7 @@
 
 ### ssh/scp
 [[Sftp-server not found when using scp]]
+[[Remove an entry from the known-hosts]]
 
 ---
 ## Webdev
