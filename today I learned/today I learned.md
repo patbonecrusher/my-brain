@@ -1,22 +1,22 @@
 ## Git
-[[how-to-revert-an-older-commit-in-a-branch]]
+[[Revert an older commit in a branch]]
 
 ---
 ## Embedded
 
 ### Linux Kernel Module
-[[How to handle LKM compile error]]
+[[Pahole-flags lkm compile error]]
 
 ### Working with Xilinx dev kits
-[[No uart visible on macOS]]
+[[ZCU106 No uart visible on macOS]]
 
 ---
 ## NodeJS
-[[webpack error]]
+[[Digital envelope routines webpack error]]
 
 ---
 ##  Cloud
-[[Resize EC2 disk]]
+[[Resize an EC2 disk]]
 
 ---
 ## Coding
@@ -28,4 +28,4 @@
 ## Devops
 
 ### ssh/scp
-[[sftp-server not found when using scp]]
+[[Sftp-server not found when using scp]]

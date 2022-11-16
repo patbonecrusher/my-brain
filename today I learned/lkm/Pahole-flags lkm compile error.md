@@ -4,7 +4,7 @@ modification date: Sunday 13th November 2022, 22:15:08
 tags: engineering, engineering/coding, engineering/coding/webpack, today_i_leaned
 ---
 
-# LKM compilation errors
+# pahole-flags: compile error
 
 If you see the following when building an LKM on Linux:
 ```shell
