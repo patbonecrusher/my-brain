@@ -9,6 +9,8 @@
 
 ### Working with Xilinx dev kits
 [[ZCU106 No uart visible on macOS]]
+[[Petalinux cleanup workspace]]
+
 
 ---
 ## NodeJS
