@@ -32,6 +32,11 @@
 ### ssh/scp
 [[Sftp-server not found when using scp]]
 [[Remove an entry from the known-hosts]]
+[[Passing ssh keys inside a docker container]]
+
+### docker
+[[Passing ssh keys inside a docker container]]
+
 
 ---
 ## Webdev

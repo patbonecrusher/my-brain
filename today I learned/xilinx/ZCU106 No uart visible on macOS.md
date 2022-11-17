@@ -1,7 +1,7 @@
 ---
 creation date: 2022-11-13 22:15
 modification date: Sunday 13th November 2022, 22:15:08
-tags: engineering, engineering/embedded, engineering/embedded/petalinux, engineering/embedded/xilinx/ZCU106, engineering/embedded/uart, engineering/computer/macOS, today_i_leaned
+tags: engineering/embedded/petalinux, engineering/embedded/xilinx/ZCU106, engineering/computer/macOS, today_i_leaned
 ---
 
 # No uart visible on macOS
