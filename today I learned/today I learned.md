@@ -26,6 +26,9 @@
 ### Python
 [[Python string interpolation tricks]]
 
+### Rust
+[[Repeating timer in rust]]
+
 ---
 ## Devops
 
