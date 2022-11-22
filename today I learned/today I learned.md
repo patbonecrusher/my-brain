@@ -13,11 +13,17 @@
 
 
 ---
+## macOS
+
+[[Disable code signature verifications altogether inside terminal]]
+
+
+---
 ## NodeJS
 [[Digital envelope routines webpack error]]
 
 ---
-##  Cloud
+## Cloud
 [[Resize an EC2 disk]]
 
 ---
