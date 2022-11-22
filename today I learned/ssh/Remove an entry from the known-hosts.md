@@ -11,3 +11,8 @@ To remove an entry for a specific site or IP from the known_hosts file, useful w
 ```shell
 ssh-keygen -R 192.168.1.25 # IP or site name
 ```
+
+Or you can simply ignore the check.  Useful during development
+```shell
+alias boldssh='ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no'
+```
