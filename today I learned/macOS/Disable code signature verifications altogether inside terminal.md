@@ -1,6 +1,6 @@
 ---
 creation date: 2022-11-21 23:15
-modification date: Monday 21st November 2022 23:15:42
+modification date: Monday, 21st November 2022, 23:15:42
 tags: engineering/devops/macOS, engineering/devops/macOS/security, today_i_leaned
 ---
 
