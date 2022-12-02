@@ -15,12 +15,12 @@
 ---
 ## macOS
 
-[[Disable code signature verifications altogether inside terminal]]
-
+[[Disable code signature verifications altogether inside the terminal]]
+[[Bluetooth keeps going to sleep after 5 seconds]]
 
 ---
 ## NodeJS
-[[Digital envelope routines webpack error]]
+[[Digital envelop routines webpack error]]
 
 ---
 ## Cloud
