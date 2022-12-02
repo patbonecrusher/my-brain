@@ -47,7 +47,7 @@
 [[Passing ssh keys inside a docker container]]
 
 ### tmux
-[[[Moving a running process to tmux]]
+[[Moving a running process to tmux]]
 
 ---
 ## Webdev
