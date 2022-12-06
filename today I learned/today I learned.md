@@ -11,6 +11,11 @@
 [[ZCU106 No uart visible on macOS]]
 [[Petalinux cleanup workspace]]
 
+### Yocto
+[[Rebuilding a specific yocto recipe]]
+
+### Petalinux
+[[Cleaning up a petalinux workspace]]
 
 ---
 ## macOS
