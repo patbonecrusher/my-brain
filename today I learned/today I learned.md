@@ -1,5 +1,8 @@
 ## Git
 [[Revert an older commit in a branch]]
+[[Side-by-side diff in a terminal]]
+[[How to reset submodules]]
+
 
 ---
 ## Embedded
@@ -16,6 +19,7 @@
 
 ### Petalinux
 [[Cleaning up a petalinux workspace]]
+[[Using static ip with Petalinux]]
 
 ---
 ## macOS
