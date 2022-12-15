@@ -8,7 +8,7 @@ tags: engineering/functional-programming
 
 ## Definition
 
-Applicative is a sub-type of [[functor]] with additional available functions: `pure` and `ap`.
+Applicative is a sub-type of [functor](functor.md) with additional available functions: `pure` and `ap`.
 
 ```javascript
 function pure<A>(A) : Foo<A>  

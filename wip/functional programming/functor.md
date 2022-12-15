@@ -55,7 +55,7 @@ two 6
 three 9
 ```
 
-Functors are the base of other functional concepts, such as [[monad]] like the `Maybe`, `IO`, or `Either` monad and such as [[applicative]].
+Functors are the base of other functional concepts, such as [monad](monad) like the `Maybe`, `IO`, or `Either` monad and such as [applicative](applicative.md).
 
 ## Laws
 For something to be a functor, its `map` function has to obey two laws.

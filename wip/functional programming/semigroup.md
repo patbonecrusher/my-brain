@@ -23,7 +23,7 @@ class Sum():
 		return f"Sum({self.x})"
 ```
 
-We can turn it into a [[monoid]] by adding an identity function (empty)
+We can turn it into a [monoid](monoid.md) by adding an identity function (empty)
 
 ```python
 class Sum():

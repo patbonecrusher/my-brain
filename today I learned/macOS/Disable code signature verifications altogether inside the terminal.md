@@ -21,5 +21,5 @@ spctl developer-mode enable-terminal
   
 This is in a regular Terminal window, not in recovery mode. Next, go to System Preferences -> Security & Privacy -> Privacy, and scroll down till you see an entry for "Developer Tools." Authenticate, tick the checkbox next to Terminal, and done!
 
-![[Pasted image 20221121231814.png]]
-![[Pasted image 20221121231838.png]]
+![Pasted image 20221121231814](attachments/Pasted%20image%2020221121231814.png)
+![Pasted image 20221121231838](attachments/Pasted%20image%2020221121231838.png)

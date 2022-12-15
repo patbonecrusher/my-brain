@@ -5,18 +5,18 @@ state: inProgress
 tags: computer, computer/macOS, computer/dotfiles, configurations
 ---
 
-![[Pasted image 20221022231346.png]]
+![Pasted image 20221022231346](attachments/Pasted%20image%2020221022231346.png)
 
 
 
-![[software install]]
+![software install](software%20install.md)
 
 
-![[dotfiles]]
+![dotfiles](dotfiles.md)
 
-![[aliases]]
+![aliases](aliases.md)
 
-![[usage]]
+![usage](usage.md)
 
 finding software installed and their purposes, for the one I rarely uses
 finding aliases and their purposes, for the one I rarely uses
