@@ -1,7 +1,7 @@
 ---
 creation date: 2022-11-13 22:15
 modification date: Sunday 13th November 2022, 22:15:08
-tags: engineering, engineering/coding, engineering/coding/webpack, today_i_leaned
+tags: today_i_leaned, engineering, engineering/coding, engineering/coding/linux, engineering/embedded, engineering/coding/linux/lkm 
 ---
 
 # pahole-flags: compile error

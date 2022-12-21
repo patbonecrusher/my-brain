@@ -9,6 +9,7 @@
 
 ### Linux Kernel Module
 [Pahole-flags lkm compile error](linux/lkm/Pahole-flags%20lkm%20compile%20error.md)
+[Opening permission on LKM SysFS and Dev node](linux/lkm/Opening%20permission%20on%20LKM%20SysFS%20and%20Dev%20node.md)
 
 ### Working with Xilinx dev kits
 [ZCU106 No uart visible on macOS](xilinx/ZCU106%20No%20uart%20visible%20on%20macOS.md)
