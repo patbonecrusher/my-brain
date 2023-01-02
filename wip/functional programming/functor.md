@@ -1,7 +1,7 @@
 ---
 creation date: 2022-11-23 15:08
 modification date: Wednesday, 23rd November 2022, 15:08:06
-tags: engineering/functional-programming
+tags: engineering/functional-programming, engineering/functional-programming/functor
 ---
 
 # Functor
