@@ -2,7 +2,7 @@
 [Revert an older commit in a branch](git/Revert%20an%20older%20commit%20in%20a%20branch.md)
 [Side-by-side diff in a terminal](git/Side-by-side%20diff%20in%20a%20terminal.md)
 [How to reset submodules](git/How%20to%20reset%20submodules.md)
-
+[Delete all tags](git/Delete%20all%20tags.md)
 
 ---
 ## Embedded
