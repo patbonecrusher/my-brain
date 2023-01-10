@@ -79,7 +79,7 @@ Just functools.partial(<function <lambda> at 0x1003c1bf8>, 5)
 Just 10
 ```
 
-`Applicative` pushes `Functor` aside. “Big boys can use functions with any number of arguments,” it says. “Armed with `%`and `*`, I can take any function that expects any number of unwrapped values. Then I pass it all wrapped values, and I get a wrapped value out! AHAHAHAHAH!”
+`Applicative` pushes `Functor` aside. “Big boys can use functions with any number of arguments,” it says. “Armed with `%`and `*`, I can take any function that expects any number of unwrapped values. Then I pass it all wrapped values and get a wrapped value out! AHAHAHAHAH!”
 
 ```python
 >>> (lambda x,y: x*y) % Just(5) * Just(3)
