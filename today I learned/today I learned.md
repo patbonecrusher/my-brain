@@ -54,6 +54,7 @@
 [Sftp-server is not found when using scp](ssh/Sftp-server%20is%20not%20found%20when%20using%20scp.md)
 [Remove an entry from the known-hosts](ssh/Remove%20an%20entry%20from%20the%20known-hosts.md)
 [Passing ssh keys inside a docker container](ssh/Passing%20ssh%20keys%20inside%20a%20docker%20container.md)
+[Enabling X11-Forwarding for SUDO or SU](ssh/Enabling%20X11-Forwarding%20for%20SUDO%20or%20SU.md)
 
 ### docker
 [Passing ssh keys inside a docker container](ssh/Passing%20ssh%20keys%20inside%20a%20docker%20container.md)
