@@ -17,6 +17,7 @@
 
 ### Yocto
 [Rebuilding a specific yocto recipe](linux/yocto/Rebuilding%20a%20specific%20yocto%20recipe.md)
+[How to add and customize nginx in Yocto](linux/yocto/How%20to%20add%20and%20customize%20nginx%20in%20Yocto.md)
 
 ### Petalinux
 [Cleaning up a petalinux workspace](linux/petalinux/Cleaning%20up%20a%20petalinux%20workspace.md)
