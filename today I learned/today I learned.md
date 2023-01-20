@@ -47,6 +47,9 @@
 ### Rust
 [Repeating timer in rust](rust/Repeating%20timer%20in%20rust.md)
 
+### Functional programming
+[How to use print to debug functional pipeline](functional%20programming/How%20to%20use%20print%20to%20debug%20functional%20pipeline.md)
+
 ---
 ## Devops
 
