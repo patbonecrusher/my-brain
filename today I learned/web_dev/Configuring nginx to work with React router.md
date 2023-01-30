@@ -19,4 +19,4 @@ server {
 }
 ```
 
-The important line is the `try_files` entry.
+The critical line is the `try_files` entry.
