@@ -66,7 +66,8 @@
 [Moving a running process to tmux](shell/Moving%20a%20running%20process%20to%20tmux.md)
 
 ---
-Web dev
+## Web dev
 [Creating a vite and react app](web_dev/Creating%20a%20vite%20and%20react%20app.md)
 [Configuring nginx to work with React router](web_dev/Configuring%20nginx%20to%20work%20with%20React%20router.md)
 [Nginx config to allow CORS on a proxy](web_dev/Nginx%20config%20to%20allow%20CORS%20on%20a%20proxy.md)
+[Nginx config to proxy SPA and API without CORS](web_dev/Nginx%20config%20to%20proxy%20SPA%20and%20API%20without%20CORS.md)
