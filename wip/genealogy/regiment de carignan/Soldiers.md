@@ -1,7 +1,7 @@
 ---
 creation date: 2023-01-23 22:32
 modification date: Monday, 23rd January 2023, 22:32:53
-tags: genealogy, genealogy/regiment-de-carignan, genealogy/regiment-de-carignan-soldiers
+tags: genealogy, genealogy/regiment-de-carignan/soldiers
 ---
 
 # Soldiers

@@ -2,7 +2,7 @@
 creation date: 2022-10-22 23:14
 modification date: Saturday 22nd October 2022 00:04:48
 state: inProgress
-tags: computer, computer/macOS, computer/dotfiles, configurations
+tags: computer, computer/macOS, computer/dotfiles
 ---
 
 ![Pasted image 20221022231346](attachments/Pasted%20image%2020221022231346.png)
