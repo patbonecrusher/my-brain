@@ -1,0 +1,4 @@
+![Pasted image 20230203115510](../../genealogy/attachments/Pasted%20image%2020230203115510.png)
+LINK: [Pasted image 20230203115510](../../genealogy/attachments/Pasted%20image%2020230203115510.png)
+CREATED At: 2023-02-03
+FILE TYPE: PNG

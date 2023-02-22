@@ -65,6 +65,9 @@
 ### tmux
 [Moving a running process to tmux](shell/Moving%20a%20running%20process%20to%20tmux.md)
 
+### services
+[Working and debugging systemD](linux/systemd/Working%20and%20debugging%20systemD.md)
+
 ---
 ## Web dev
 [Creating a vite and react app](web_dev/Creating%20a%20vite%20and%20react%20app.md)

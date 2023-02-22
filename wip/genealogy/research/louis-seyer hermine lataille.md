@@ -1,8 +1,9 @@
 ---
 creation date: 2023-01-23 22:50
 modification date: Friday, 27rd January 2023, 09:50:32
-tags: genealogy
+tags: genealogy/research
 ---
+
 https://www.bac-lac.gc.ca/fra/recensements/1881/Pages/quebec.aspx
 https://www.ancestry.com/family-tree/person/tree/179320273/person/332336143212/facts
 
@@ -28,3 +29,6 @@ They are in St-Theodore-d'Acton.
 However, no mention of Henri or rose anna in the church record for 1884/1885 or 1888/1889
 
 Some mention of them being born in the USA
+
+Onesime seyer mort a 17 ans
+https://www.ancestry.com/discoveryui-content/view/24787123:1091?tid=179976483&pid=432413066949&hid=1036451016708
