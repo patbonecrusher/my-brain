@@ -4,6 +4,7 @@ modification date: Tuesday, 21st February 2023, 22:19:56
 tags: today_i_leaned, engineering/cloud/aws/s3
 ---
 
+
 # 28 Essential AWS S3 CLI Command Examples to Manage Buckets and Objects
 
 28 Essential AWS S3 CLI Command Examples to Manage Buckets and Objects
@@ -17,7 +18,7 @@ For quick reference, here are the commands. For details on how these commands wo
 # s3 make bucket (create bucket)
 aws s3 mb s3://tgsbucket --region us-west-2
 
-# s3 remove bucket
+# s3 remove a bucket
 aws s3 rb s3://tgsbucket
 aws s3 rb s3://tgsbucket --force
 
