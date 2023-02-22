@@ -21,7 +21,7 @@ const add1AndMultiplyBy2 = R.pipe(
 add1AndMultiplyBy2('1'); // returns 22
 ```
 
-I would normally have break the pipeline into a sequential function where I can put a console.log in the middle:
+I would normally have broken the pipeline into a sequential function where I can put a console.log in the middle:
 
 ```javascript
 function add1AndMultiplyBy2 (num) {  
@@ -33,7 +33,7 @@ function add1AndMultiplyBy2 (num) {
 
 This is a real PITA.
 
-There is however a more 'functional' way to inject log output in a functional pipeline.  Ramda provides a function called `[tap](https://ramdajs.com/docs/#tap)` which runs a given function with a supplied value, then returns the value, unchanged.  This is like the *identity* function with the ability to perform some side effect.
+There is however a more 'functional' way to inject log output in a functional pipeline.  Ramda provides a function called `[tap](https://ramdajs.com/docs/#tap)` which runs a given function with a supplied value, then returns the value, unchanged.  This is like the *identity* function with the ability to perform some side effects.
 
 ```javascript
 const add1AndMultiplyBy2 = R.pipe(  
@@ -51,7 +51,7 @@ We can also create a new lamda that cleans things up a little bit:
 const log = msg => R.tap(x => console.log(msg, x));
 ```
 
-We then end up with:
+We then end up with the following:
 
 ```javascript
 const add1AndMultiplyBy2 = R.pipe(  
