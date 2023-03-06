@@ -616,10 +616,6 @@ tags: genealogy, genealogy/daughter-of-the-king
 
 **Évin, Marguerite**, m. Richard, Pierre, Sep. 24, 1670
 
-
-
-
-
 **Faucheux, Jeanne**, m. 1. Leduc, Antoine, bef. 1671, m. 2. Vaillant, Pierre,
 
          Feb. 29, 1688

@@ -6,6 +6,10 @@ tags:
 
 # References to sort
 
+to create an overlay and load it using fpgamanager
+petalinux-create -t apps --template fpgamanager_dtg -n can-interface --srcuri ~/system_top.xsa --enable
+
+
 https://randomnerdtutorials.com/latching-power-switch-circuit-auto-power-off-circuit-esp32-esp8266-arduino/
 https://aruva.medium.com/100-bash-aliases-for-supersonic-productivity-d54a796422d9
 
