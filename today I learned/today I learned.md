@@ -38,6 +38,7 @@
 ## Cloud
 [Resize an EC2 disk](aws/ec2/Resize%20an%20EC2%20disk.md)
 [28 Essential AWS S3 CLI Command Examples to Manage Buckets and Objects](aws/s3/28%20Essential%20AWS%20S3%20CLI%20Command%20Examples%20to%20Manage%20Buckets%20and%20Objects.md)
+[[serveless lamda use arm]]
 
 ---
 ## Coding
