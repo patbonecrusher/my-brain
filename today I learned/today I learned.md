@@ -71,6 +71,9 @@
 ### services
 [Working and debugging systemD](linux/systemd/Working%20and%20debugging%20systemD.md)
 
+### netcat
+[[How to send UDP packet in bash using netcat]]
+
 ---
 ## Web dev
 [Creating a vite and react app](web_dev/Creating%20a%20vite%20and%20react%20app.md)
