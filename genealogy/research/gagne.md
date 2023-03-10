@@ -9,15 +9,15 @@ tags: genealogy/research
 Gilberte Gagne - Parent Antoinette Proux et Lucien
 
  https://www.myheritage.com/names/antoinette_proulx
-![Pasted image 20230203113047](../attachments/Pasted%20image%2020230203113047.png)
+![Pasted image 20230203113047](Pasted%20image%2020230203113047.png)
 
 ---
 
 Antoinette : William Proux et Marie Medora Prince
 
-![Pasted image 20230203113154](../attachments/Pasted%20image%2020230203113154.png)https://www.mesaieux.com/Genealogie/Medora_Prince/0
+![Pasted image 20230203113154](Pasted%20image%2020230203113154.png)https://www.mesaieux.com/Genealogie/Medora_Prince/0
 
-![Pasted image 20230203113547](../attachments/Pasted%20image%2020230203113547.png)
+![Pasted image 20230203113547](Pasted%20image%2020230203113547.png)
 
 William Proulx: Antoine Proulx Louise Langlois
 

@@ -5,11 +5,11 @@ tags: genealogy/research
 ---
 
 https://www.ancestry.ca/discoveryui-content/view/13870672:1091?tid=&pid=&queryId=bbddd9966a8713506794f0b5bd856dfc&_phsrc=RYq1&_phstart=successSource
-![Pasted image 20230203114813](../attachments/Pasted%20image%2020230203114813.png)
-![Pasted image 20230203114827](../attachments/Pasted%20image%2020230203114827.png)
+![Pasted image 20230203114813](Pasted%20image%2020230203114813.png)
+![Pasted image 20230203114827](Pasted%20image%2020230203114827.png)
 
 parent a phillipe:
-![Pasted image 20230203115510](../attachments/Pasted%20image%2020230203115510.png)
+![Pasted image 20230203115510](Pasted%20image%2020230203115510.png)
 
 
 https://gw.geneanet.org/kcperry1954?lang=fr&pz=kenneth+charles&nz=perry&p=francois+xavier&n=caillouet

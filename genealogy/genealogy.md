@@ -4,10 +4,10 @@ modification date: Tuesday, 21st February 2023, 21:37:09
 tags: genealogy/general
 ---
 
-* [famous relationships](famous%20relationships/famous%20relationships.md)
-* *[name variants](name%20variants/name%20variants.md)
-* [references](references/references.md)
-* [research](research/research.md)
+* [famous relationships](famous%20relationships.md)
+* *[name variants](name%20variants.md)
+* [references](genealogy/references/references.md)
+* [research](research.md)
 * [todos](todos.md)
 
 
@@ -33,4 +33,4 @@ https://www.familysearch.org/tree/person/details/LK31-ZV3
 claude matthias
 http://www.francogene.com/ymtx/gfangfna.php?no=14887
 
-![Pasted image 20230123222731](attachments/Pasted%20image%2020230123222731.png)
+![Pasted image 20230123222731](Pasted%20image%2020230123222731.png)
