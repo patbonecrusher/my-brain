@@ -1,0 +1,103 @@
+# Linking Theory to Practice
+
+![rw-book-cover](https://m.media-amazon.com/images/I/51IJWULqt+L._SY160.jpg)
+
+## Metadata
+- Author: 
+- Full Title: Linking Theory to Practice
+- Category: #books
+
+## Highlights
+- The job of the theory builder and some kinds of researchers (like Thompson) is to ignore the finer details of students’ lives. However, the student affairs professional’s job typically is not to ignore those details. ([Location 228](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=228))
+- Case-study analysis benefits student affairs administrators as well as students in professional programs in four ways: challenges conventional habits of administrative thought and action; promotes consideration of multiple perspectives; promotes consideration of unique campus environments; and manipulates problems with realistic legal, institutional, and political constraints. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=239))
+- Case-study analysis is an ideal way to begin to challenge and modify theories of action or, in the absence of theories of action, to cultivate positive ones. ([Location 248](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=248))
+- a four-year college with an urban mission to serve the people of the city in which it resides and the surrounding communities. ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1788))
+    - Tags: [[blue]] 
+- 19,000 students, of which 72% reside within 50 miles of campus. ([Location 1789](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1789))
+    - Tags: [[blue]] 
+- as 38% of its students are students of color, including 16% Latina/o, 14% African American/Black, 7% Asian/Pacific Islander, and 1% American Indian. Whites make up 62% of the student population. ([Location 1791](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1791))
+    - Tags: [[blue]] 
+- Further, 56% of students are the first in their families to attend college. ([Location 1792](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1792))
+    - Tags: [[blue]] 
+- protests and demands for college access by African Americans and Latina/os in the late 1960s and early 1970s, an outgrowth of civil rights activism that was happening within the larger community at the time. ([Location 1793](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1793))
+    - Tags: [[blue]] 
+- college consistently has low SAT scores and low graduation rates and as a result has been criticized by local news outlets. Proud of the access they provide to a wide range of students, faculty and staff are satisfied with the college’s practice of using a nonselective admissions process that traditionally admits more than 59% of its applicants. ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1795))
+    - Tags: [[blue]] 
+- eliminate developmental education courses and summer college preparatory programs. Students who did not meet new admissions requirements (including increased grade point average [GPA] and SAT/ACT scores) would no longer be admitted, conditionally or otherwise. ([Location 1799](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1799))
+    - Tags: [[blue]] 
+- BOT re-examine their proposal and defend the need for academic support and wide college access. ([Location 1802](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1802))
+    - Tags: [[blue]] 
+- the BOT voted to end developmental education courses and raise standardized test score requirements. Shortly after the BOT vote, the president of City State College resigned and accepted a position at a private institution after 15 years at CSC. ([Location 1805](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1805))
+    - Tags: [[blue]] 
+- eliminating developmental education courses and raising admissions standards would provide the college with a new opportunity to improve its public image, raise institutional prestige, and attract a new group of students with high standardized test scores. ([Location 1807](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1807))
+    - Tags: [[blue]] 
+- While average SAT scores have increased, faculty still complain that students are underprepared for college-level work. At a recent meeting to discuss the new admissions policy, one faculty member, Mike Staley, argued, “I don’t care what admissions says. My students still have trouble with writing. It’s too late for them once they are already in our classes.” ([Location 1819](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1819))
+    - Tags: [[blue]] 
+- the percentage of Blacks and Latinos in the freshman class decreased by slightly more than 24%. ([Location 1825](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1825))
+    - Tags: [[blue]] 
+- Others said some of their friends went to one of these for-profit schools instead. It’s funny. I always thought we were the ones to provide opportunities. ([Location 1831](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1831))
+    - Tags: [[blue]] 
+- Although the administration intends to continue to serve the needs of the greater community, the number of students of color in this year’s incoming freshman class has dropped significantly. If indeed the institution wants to maintain its mission and obligations to the community, it is not clear why the institution raised the admissions standards to a level that, by national standards systematically reduces the eligibility of students of color. The editorial also noted that some institutions eliminated SAT exams as a standard for admission. ([Location 1838](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1838))
+    - Tags: [[blue]] 
+- “We believe your job is to maintain enrollment and ensure the institution is fulfilling its mission to serve the greater community by reflecting the diversity of the community. How did this happen?” ([Location 1846](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1846))
+    - Tags: [[blue]] 
+- Do you know that if I was applying to CSC today, I wouldn’t get in? I wouldn’t be eligible for admission. My high school GPA was like a 2.7. And now, as a student leader on this campus, I have a 3.5 GPA! ([Location 1853](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1853))
+    - Tags: [[blue]] 
+- You also recognize the need for new and ongoing academic and social support services for all undergraduates. ([Location 1867](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1867))
+    - Tags: [[blue]] 
+- Northeast Corridor. ([Location 2965](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2965))
+- highly selective, ([Location 2965](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2965))
+- school is recognized as one of the most expensive schools in the nation. ([Location 2965](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2965))
+- 5,500 students. ([Location 2966](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2966))
+- transfer student from a community college in the south. ([Location 2969](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2969))
+- nontraditional student ([Location 2970](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2970))
+- Roger attended the same community college ([Location 2972](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2972))
+- as Kamal ([Location 2972](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2972))
+- strong commitment to working with underrepresented students and works diligently to support students with persistence. ([Location 2973](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2973))
+- working in your role for over seven years, ([Location 2976](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2976))
+- transfer students generally do not receive the amount of hand holding or special attention that is given to incoming first-year students. ([Location 2976](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2976))
+- African American from the deep South, an area where few students who attend your university hail from. ([Location 2979](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2979))
+- closer to your age, in his mid-thirties. Last, Kamal is transferring from a community college, which is rare in your institution given its highly selective status. ([Location 2980](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2980))
+- Kamal confidently explains his one-year plan—to complete course work in Economics with the hope of transferring to the university’s business school, a place that will ultimately translate to a big financial pay-off for his investment. ([Location 2984](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2984))
+- Kamal visits your office frequently to discuss his progress. ([Location 2989](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2989))
+- he begins disclosing more information about his reasons for transferring. ([Location 2991](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2991))
+- primary reason he left the South was that his brother was murdered due to involvement with gangs. He felt it was no longer safe for him to remain in the region given his brother’s gang connection. ([Location 2993](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2993))
+- refer Kamal to wellness, a recommendation he welcomes. ([Location 2994](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2994))
+- he has been working with a counselor and he has found it useful. ([Location 2997](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2997))
+- grade point average for the semester was a 2.3. ([Location 2997](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2997))
+- his part-time job took up a good deal of his time, a position he never mentioned in previous conversation. ([Location 2998](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2998))
+- sleeping at the library because for financial reasons, the family members he stays with off campus are no longer able to open up their home to him. ([Location 2999](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2999))
+- immediate plan for the summer will be to find a home in which to live, earn a higher wage so he can pay his overdue bursar balance, and make an appointment with disability services; his professor suggested he might have a learning disorder due to his inability to complete tests in the time allotted. ([Location 3000](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3000))
+- In short, to pay for the expense, bigger is better. ([Location 3540](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3540))
+- Gay Straight Alliance (GSA), copying ([Location 3550](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3550))
+- The GSA is a respected organization on campus, and it has just recovered from an incident in the fall where ([Location 3558](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3558))
+- members from outside of the community vandalized campus property with homophobic rhetoric. ([Location 3559](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3559))
+- very early the morning of opening day. ([Location 3949](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3949))
+- frustrated Russell Terry ([Location 3952](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3952))
+- Russell was doing final checks of the rooms and common areas when he found a large mess in Alpha Beta’s chapter room. The mess included several cases of empty beer bottles, open and used hard liquor bottles, and a case of open and mostly finished wine bottles. In addition… ([Location 3952](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3952))
+- she could properly follow up with Alpha Beta… ([Location 3955](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3955))
+- Josh insisted that it was not his fraternity brothers who made the mess and agreed to clean up the room before reporting to… ([Location 3956](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3956))
+- this was not the first time Alpha Beta was in violation of a policy, and following up from the incident may mean a… ([Location 3957](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3957))
+- several members of Alpha Beta had moved into their rooms the day before in order to volunteer as part of the… ([Location 3959](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3959))
+- Alcohol is not allowed in other areas of the residence halls, but fraternity and sororities are allowed to have alcohol in their chapter rooms as… ([Location 3962](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3962))
+- Alpha Beta has a recent history, during the past… ([Location 3964](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3964))
+- of violating the no one under 21 policy, but new leadership elected at the end of the previous year… ([Location 3964](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3964))
+- Josh maintained his story that it was not members of Alpha Beta who had a party in the chapter room, but said he could not identify who was in the room. When asked who had access to keys to the room (besides himself and the members of the… ([Location 3966](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3966))
+- As most campus safety reports are sent to Residence Life within 24–48 hours of the incident, this report not appearing has now caught the attention of the Director of Residence Life and Vice President of Student Affairs. In… ([Location 3971](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3971))
+- Unable to provide a reason for the disappearance of the report, a reluctant Officer Cave personally delivered the report to Janis. As he handed her the report he said “we… ([Location 3974](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3974))
+- Janis discovered that Alpha Beta was not involved in the party that occurred in their chapter room the night before opening.… ([Location 3976](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3976))
+- attending the party were the RAs on staff in… ([Location 3977](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3977))
+- Every RA was named in the report, with the exception of two people. Josh was one of… ([Location 3977](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3977))
+- Those who did attend said they decided to have a beginning of the year celebration before residents arrived and that Josh offered the chapter room so that they did not have to go off campus. Each RA confessed to there being alcohol present, each knowing that alcohol is not allowed in the residence… ([Location 3980](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3980))
+- incident would need to be resolved first as a judicial case and then a decision would be made as to the continued… ([Location 3983](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3983))
+- Cases could be heard by a hearing board or officer or be selected for a restorative justice process. Restorative justice would be used when the parties involved took responsibility for their actions… ([Location 3985](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3985))
+- group-based restorative justice process instead… ([Location 3988](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3988))
+- When asked why they made this decision, the answer was a resounding, “we didn’t think the entire staff could get… ([Location 3990](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3990))
+- As part of the restorative justice process, each RA was required to create alcohol education programs and bulletin boards for their residential floors. In addition, they were to lead a meeting with the RAs in the residential area so that… ([Location 3993](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3993))
+- The RA handbook clearly stated that any RA found in violation of the alcohol policy would be immediately terminated from his or her position. As the rumors grew,… ([Location 3997](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=3997))
+- “Save the RAs” poster and social media campaign in support of their RAs not being terminated. This took an incident that was primarily affecting three small residence halls… ([Location 4000](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=4000))
+- If the RA employment policy was followed, it would leave Bernice with a staff of two (out of 15 RAs) and the need to hire and train new RAs in the middle of the semester. In addition, it would have a strong impact on the residence hall community, with the floor… ([Location 4003](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=4003))
+- need to help cover duty hours and programming needs until new… ([Location 4006](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=4006))
+- many of them would need to find replacement… ([Location 4007](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=4007))
+- setting precedence for current and future RAs in relation to… ([Location 4008](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=4008))
+- 24 hours to make a… ([Location 4009](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=4009))

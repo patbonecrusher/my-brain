@@ -81,3 +81,4 @@
 [Nginx config to allow CORS on a proxy](web_dev/Nginx%20config%20to%20allow%20CORS%20on%20a%20proxy.md)
 [Nginx config to proxy SPA and API without CORS](web_dev/Nginx%20config%20to%20proxy%20SPA%20and%20API%20without%20CORS.md)
 [Debugging css](web_dev/Debugging%20css.md)
+[CSS Clip div content to an outer DIV radius](CSS%20Clip%20div%20content%20to%20an%20outer%20DIV%20radius.md)

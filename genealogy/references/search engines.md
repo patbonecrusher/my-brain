@@ -7,6 +7,8 @@ tags: genealogy, genealogy/references, genealogy/search-engine
 # Search site
 
 ---
+https://www.histoiredemaska.com/histoire/histoire-regionale/histoire-d-ici/histoire-d-ici/?timeline=2023-01
+
 
 Family Search: [FamilySearch • Free Family Trees and Genealogy Archives — FamilySearch.org](https://www.familysearch.org/)
 Nos Origines: [Généalogie du Québec et d’Amérique française](https://www.nosorigines.qc.ca)

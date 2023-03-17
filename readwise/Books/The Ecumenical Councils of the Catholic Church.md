@@ -1,0 +1,42 @@
+# The Ecumenical Councils of the Catholic Church
+
+![rw-book-cover](https://m.media-amazon.com/images/I/81-W1OZkjRL._SY160.jpg)
+
+## Metadata
+- Author: [[Joseph F. Kelly]]
+- Full Title: The Ecumenical Councils of the Catholic Church
+- Category: #books
+
+## Highlights
+- The “pope” who actually convoked the council was known as John XXIII, now regarded as an antipope (false pope). ([Location 227](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=227))
+- Modern scholars take a different approach. First, they emphasize that theologians deal with mysteries. In common parlance, a mystery means a puzzle of some kind that some brilliant scientist or detective will, with hard work and ingenious use of the little grey cells, eventually solve. But, in theology, the Greek word mustérion means something we cannot understand. Religion deals with the supernatural, that is, the super naturam in Latin, what is “beyond our nature” and thus impossible for us to understand. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=278))
+- The term “heterodoxy” means deviation from commonly accepted teaching, and that term better applies to many early theologies than heresy. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=296))
+- For example, Vatican II introduced the vernacular liturgy to the Latin rite. ([Location 311](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=311))
+- Diaspora, ([Location 329](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=329))
+- diasporan ([Location 330](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=330))
+- Gentiles ([Location 340](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=340))
+- Otherwise the Roman attitude was “Peace and Taxes.” ([Location 346](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=346))
+- Significantly, for the first two centuries, all Christian literature to and from the Roman community was in Greek, suggesting a community largely of foreigners, which probably also augmented suspicions. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=355))
+- In 258, when he initiated a short-lived persecution, the emperor Valerian (253–60) first removed all the Christians from the Roman senate, proof that Christians had reached that high level of Roman society. ([Location 361](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=361))
+- The ancient Jews were aniconic, that is, their religion forbade them to make images of people, which is why we have images of great Babylonians, Egyptians, Greeks, and Romans, but of no Jews, not even David or Solomon. ([Location 371](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=371))
+- But the most significant change, and one that echoed repeatedly in the ecumenical councils, was the adoption of Greek philosophy. ([Location 377](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=377))
+- By the time Nicea I convened in 325, the overwhelmingly Greek-speaking bishops there had accepted the notion that Greek philosophy could help in formulating Christian teaching. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=392))
+- Nicea I met because of two momentous events in Christian history: the advent of the first Christian emperor and the final reckoning of trinitarian theology. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=435))
+- Diocletian, the persecuting emperor, resigned his office in 305, having prepared an ordered transition for the government of the empire, which he had divided into two parts, East and West. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=437))
+- In 313 Constantine and his ally Licinius met in northern Italy and issued the Edict of Milan, which gave Christians freedom of worship and restored to them much of their confiscated property. Using this newfound freedom, the Christians successfully evangelized in much of the empire. ([Location 446](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=446))
+- Still a pagan, he did not interfere in Christian doctrinal matters, but he made it clear to the bishops that he expected the churches to support order in the empire. When ([Location 451](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=451))
+- Circa 319 the emperor himself converted to Christianity. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=454))
+- on November 8, 324, he started work on a new capital city and, with wanton pride, named it after himself, Constantinople, ([Location 465](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=465))
+- Just a year after founding his new city, the emperor made his weight felt in the universal church: he called an ecumenical council. ([Location 476](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=476))
+- Some Monarchian theologians adopted modalism, that “Son” and “Spirit” are names for the different forms or “modes” of the Father’s activity, for example, “Son” for his redemptive work, “Spirit” for his sanctifying work. ([Location 498](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=498))
+- how can the Son and the Father both be divine? ([Location 523](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=523))
+- (And no account of the bishops at Nicea would be complete without mention of a charitable but barely-known bishop from the southwestern Asia Minor town of Myra: Nicholas, who as St. Nicholas, would evolve into Santa Claus and become the best known of all Christian saints.) ([Location 539](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=539))
+- They declared anathema the notions that there was a time when the Son did not exist, that he was created from nothing, and that he did not share the same substance with the Father. ([Location 567](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=567))
+- Although best remembered for its trinitarian formulation, Nicea also did important pastoral work, passing what are typically called disciplinary decrees. None was more important than trying to standardize the reckoning of the date of Easter, a major problem since the second century. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=570))
+- In general, decrees are dogmatic statements, proclaiming the faith of the church on a point of dogma, although some councils passed disciplinary decrees. Canons were ordinances, often brief, that included a penalty for ignoring or disobeying them. The penalty often took the form, “Let him be anathema,” that is, cursed, but some canons had more specific penalties. ([Location 583](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=583))
+- “Wild animals do not attack one another as fiercely as do these Christians.” ([Location 650](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=650))
+- Yet no one could ignore the troubles of preceding decades, and now on the throne of Constantine, Theodosius I decided to imitate his predecessor, and so he called a council to meet in Constantinople in 381 to put an official stamp on the end of Arianism. ([Location 684](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=684))
+- “The Bishop of Constantinople shall have primacy of honor after the Bishop of Rome because Constantinople is the new Rome.” ([Location 716](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=716))
+- Following Damasus’s lead, the bishops of Rome have never accepted the third canon of Constantinople I. Actually, papal suspicion about the council remained deep. Felix II (483–92) did not acknowledge it; not till the time of Hormisdas (513–23) did Rome acknowledge this second ecumenical council. ([Location 731](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=731))
+- No longer the apocalyptic Whore of Babylon, the Roman Empire was now accepted by Christians as the framework of their lives. ([Location 741](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=741))
+- The decline and fall of the Western empire had begun, and by the end of the fifth century it would be no more. ([Location 754](https://readwise.io/to_kindle?action=open&asin=B004AHM642&location=754))
