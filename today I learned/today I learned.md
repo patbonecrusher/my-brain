@@ -74,6 +74,9 @@
 ### netcat
 [[How to send UDP packet in bash using netcat]]
 
+### disk managements
+[How to find which Linux block device is mounted](How%20to%20find%20which%20Linux%20block%20device%20is%20mounted.md)
+
 ---
 ## Web dev
 [Creating a vite and react app](web_dev/Creating%20a%20vite%20and%20react%20app.md)
