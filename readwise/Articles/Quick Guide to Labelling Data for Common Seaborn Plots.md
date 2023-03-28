@@ -3,7 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
-- Author: [[Kaili Chen]]
+- Author: [Kaili Chen](Kaili%20Chen)
 - Full Title: Quick Guide to Labelling Data for Common Seaborn Plots
 - Category: #articles
 - URL: https://medium.com/p/736e10bf14a9

@@ -3,7 +3,7 @@
 ![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51Gw3mTawOL._SL200_.jpg)
 
 ## Metadata
-- Author: [[John Julius Norwich]]
+- Author: [John Julius Norwich](John%20Julius%20Norwich)
 - Full Title: Absolute Monarchs
 - Category: #books
 

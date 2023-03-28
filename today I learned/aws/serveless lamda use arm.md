@@ -6,4 +6,4 @@ tags: today_i_leaned, engineering/cloud/aws
 
 # Using arm64 to run lamda cheaper
 
-![[Pasted image 20230306143418.png]]
+![Pasted image 20230306143418](attachments/Pasted%20image%2020230306143418.png)

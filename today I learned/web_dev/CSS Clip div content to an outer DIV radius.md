@@ -6,6 +6,6 @@ tags: today_i_leaned
 
 # CSS Clip div content to an outer DIV radius
 
-![[Pasted image 20230316132816.png]]
+![Pasted image 20230316132816](attachments/Pasted%20image%2020230316132816.png)
 
 This means that an `overflow: hidden` on `#outer` should work. However, this won't work for Firefox 3.6 and below. This is fixed in Firefox 4:

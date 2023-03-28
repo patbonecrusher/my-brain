@@ -3,7 +3,7 @@
 ![rw-book-cover](https://m.media-amazon.com/images/I/81XbhUrUsBL._SY160.jpg)
 
 ## Metadata
-- Author: [[Matt Dinniman]]
+- Author: [Matt Dinniman](Matt%20Dinniman)
 - Full Title: Dungeon Crawler Carl
 - Category: #books
 

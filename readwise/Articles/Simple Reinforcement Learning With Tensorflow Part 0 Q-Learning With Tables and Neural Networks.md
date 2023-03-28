@@ -3,7 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
-- Author: [[Arthur Juliani]]
+- Author: [Arthur Juliani](Arthur%20Juliani)
 - Full Title: Simple Reinforcement Learning With Tensorflow Part 0: Q-Learning With Tables and Neural Networks
 - Category: #articles
 - URL: https://medium.com/p/d195264329d0

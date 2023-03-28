@@ -3,7 +3,7 @@
 ![rw-book-cover](https://m.media-amazon.com/images/I/71VEjxf9MdL._SY160.jpg)
 
 ## Metadata
-- Author: [[Bill McGuire]]
+- Author: [Bill McGuire](Bill%20McGuire)
 - Full Title: Hothouse Earth
 - Category: #books
 

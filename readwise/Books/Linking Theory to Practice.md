@@ -12,39 +12,39 @@
 - Case-study analysis benefits student affairs administrators as well as students in professional programs in four ways: challenges conventional habits of administrative thought and action; promotes consideration of multiple perspectives; promotes consideration of unique campus environments; and manipulates problems with realistic legal, institutional, and political constraints. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=239))
 - Case-study analysis is an ideal way to begin to challenge and modify theories of action or, in the absence of theories of action, to cultivate positive ones. ([Location 248](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=248))
 - a four-year college with an urban mission to serve the people of the city in which it resides and the surrounding communities. ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1788))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - 19,000 students, of which 72% reside within 50 miles of campus. ([Location 1789](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1789))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - as 38% of its students are students of color, including 16% Latina/o, 14% African American/Black, 7% Asian/Pacific Islander, and 1% American Indian. Whites make up 62% of the student population. ([Location 1791](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1791))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - Further, 56% of students are the first in their families to attend college. ([Location 1792](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1792))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - protests and demands for college access by African Americans and Latina/os in the late 1960s and early 1970s, an outgrowth of civil rights activism that was happening within the larger community at the time. ([Location 1793](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1793))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - college consistently has low SAT scores and low graduation rates and as a result has been criticized by local news outlets. Proud of the access they provide to a wide range of students, faculty and staff are satisfied with the college’s practice of using a nonselective admissions process that traditionally admits more than 59% of its applicants. ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1795))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - eliminate developmental education courses and summer college preparatory programs. Students who did not meet new admissions requirements (including increased grade point average [GPA] and SAT/ACT scores) would no longer be admitted, conditionally or otherwise. ([Location 1799](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1799))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - BOT re-examine their proposal and defend the need for academic support and wide college access. ([Location 1802](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1802))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - the BOT voted to end developmental education courses and raise standardized test score requirements. Shortly after the BOT vote, the president of City State College resigned and accepted a position at a private institution after 15 years at CSC. ([Location 1805](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1805))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - eliminating developmental education courses and raising admissions standards would provide the college with a new opportunity to improve its public image, raise institutional prestige, and attract a new group of students with high standardized test scores. ([Location 1807](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1807))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - While average SAT scores have increased, faculty still complain that students are underprepared for college-level work. At a recent meeting to discuss the new admissions policy, one faculty member, Mike Staley, argued, “I don’t care what admissions says. My students still have trouble with writing. It’s too late for them once they are already in our classes.” ([Location 1819](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1819))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - the percentage of Blacks and Latinos in the freshman class decreased by slightly more than 24%. ([Location 1825](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1825))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - Others said some of their friends went to one of these for-profit schools instead. It’s funny. I always thought we were the ones to provide opportunities. ([Location 1831](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1831))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - Although the administration intends to continue to serve the needs of the greater community, the number of students of color in this year’s incoming freshman class has dropped significantly. If indeed the institution wants to maintain its mission and obligations to the community, it is not clear why the institution raised the admissions standards to a level that, by national standards systematically reduces the eligibility of students of color. The editorial also noted that some institutions eliminated SAT exams as a standard for admission. ([Location 1838](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1838))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - “We believe your job is to maintain enrollment and ensure the institution is fulfilling its mission to serve the greater community by reflecting the diversity of the community. How did this happen?” ([Location 1846](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1846))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - Do you know that if I was applying to CSC today, I wouldn’t get in? I wouldn’t be eligible for admission. My high school GPA was like a 2.7. And now, as a student leader on this campus, I have a 3.5 GPA! ([Location 1853](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1853))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - You also recognize the need for new and ongoing academic and social support services for all undergraduates. ([Location 1867](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=1867))
-    - Tags: [[blue]] 
+    - Tags: [blue](blue) 
 - Northeast Corridor. ([Location 2965](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2965))
 - highly selective, ([Location 2965](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2965))
 - school is recognized as one of the most expensive schools in the nation. ([Location 2965](https://readwise.io/to_kindle?action=open&asin=B0765ZNB4Y&location=2965))

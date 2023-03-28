@@ -3,7 +3,7 @@
 ![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51CVYlQbl-L._SL200_.jpg)
 
 ## Metadata
-- Author: [[James Wylie]]
+- Author: [James Wylie](James%20Wylie)
 - Full Title: History of the Papacy
 - Category: #books
 

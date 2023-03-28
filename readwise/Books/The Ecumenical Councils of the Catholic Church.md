@@ -3,7 +3,7 @@
 ![rw-book-cover](https://m.media-amazon.com/images/I/81-W1OZkjRL._SY160.jpg)
 
 ## Metadata
-- Author: [[Joseph F. Kelly]]
+- Author: [Joseph F. Kelly](Joseph%20F.%20Kelly)
 - Full Title: The Ecumenical Councils of the Catholic Church
 - Category: #books
 

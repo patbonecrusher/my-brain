@@ -3,7 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
-- Author: [[Brian Candler]]
+- Author: [Brian Candler](Brian%20Candler)
 - Full Title: Functional Programming Illustrated in Python: Part 4
 - Category: #articles
 - URL: https://medium.com/p/bc8948ec6433

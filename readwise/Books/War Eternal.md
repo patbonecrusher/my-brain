@@ -3,7 +3,7 @@
 ![rw-book-cover](https://m.media-amazon.com/images/I/91OZap3T9LL._SY160.jpg)
 
 ## Metadata
-- Author: [[M.R. Forbes]]
+- Author: [M.R. Forbes](M.R.%20Forbes)
 - Full Title: War Eternal
 - Category: #books
 

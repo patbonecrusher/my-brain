@@ -3,7 +3,7 @@
 [Side-by-side diff in a terminal](git/Side-by-side%20diff%20in%20a%20terminal.md)
 [How to reset submodules](git/How%20to%20reset%20submodules.md)
 [Delete all tags](git/Delete%20all%20tags.md)
-[[How to pass SSH Key in git command]]
+[How to pass SSH Key in git command](git/How%20to%20pass%20SSH%20Key%20in%20git%20command.md)
 
 ---
 ## Embedded
@@ -39,7 +39,7 @@
 ## Cloud
 [Resize an EC2 disk](aws/ec2/Resize%20an%20EC2%20disk.md)
 [28 Essential AWS S3 CLI Command Examples to Manage Buckets and Objects](aws/s3/28%20Essential%20AWS%20S3%20CLI%20Command%20Examples%20to%20Manage%20Buckets%20and%20Objects.md)
-[[serveless lamda use arm]]
+[serveless lamda use arm](aws/serveless%20lamda%20use%20arm.md)
 
 ---
 ## Coding
@@ -71,8 +71,9 @@
 ### services
 [Working and debugging systemD](linux/systemd/Working%20and%20debugging%20systemD.md)
 
-### netcat
-[[How to send UDP packet in bash using netcat]]
+### networking
+[How to send UDP packet in bash using netcat](shell/How%20to%20send%20UDP%20packet%20in%20bash%20using%20netcat.md)
+[Adding a Route to an interface](Adding%20a%20Route%20to%20an%20interface.md)
 
 ### disk managements
 [How to find which Linux block device is mounted](How%20to%20find%20which%20Linux%20block%20device%20is%20mounted.md)

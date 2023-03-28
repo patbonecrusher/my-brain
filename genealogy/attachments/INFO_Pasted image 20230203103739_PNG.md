@@ -1,4 +1,4 @@
-![[genealogy/attachments/Pasted image 20230203103739.png]]
-LINK: [[genealogy/attachments/Pasted image 20230203103739.png]]
+![Pasted image 20230203103739](Pasted%20image%2020230203103739.png)
+LINK: [Pasted image 20230203103739](Pasted%20image%2020230203103739.png)
 CREATED At: 2023-02-03
 FILE TYPE: PNG

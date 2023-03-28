@@ -3,7 +3,7 @@
 ![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51s1tsh-W%2BL._SL200_.jpg)
 
 ## Metadata
-- Author: [[James D. Prescott]]
+- Author: [James D. Prescott](James%20D.%20Prescott)
 - Full Title: Extinction Crisis
 - Category: #books
 
