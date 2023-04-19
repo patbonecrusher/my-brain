@@ -24,6 +24,9 @@
 [Cleaning up a petalinux workspace](linux/petalinux/Cleaning%20up%20a%20petalinux%20workspace.md)
 [Using static ip with Petalinux](linux/petalinux/Using%20static%20ip%20with%20Petalinux.md)
 
+### Esp32
+[How to build esp32 in docker and flash device in docker](How%20to%20build%20esp32%20in%20docker%20and%20flash%20device%20in%20docker.md)
+
 ---
 ## macOS
 
@@ -77,6 +80,9 @@
 
 ### disk managements
 [How to find which Linux block device is mounted](How%20to%20find%20which%20Linux%20block%20device%20is%20mounted.md)
+
+### serial port software
+[Picocom as a serial monitor replacement](Picocom%20as%20a%20serial%20monitor%20replacement.md)
 
 ---
 ## Web dev
