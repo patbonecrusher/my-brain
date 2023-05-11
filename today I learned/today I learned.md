@@ -24,6 +24,9 @@
 [Cleaning up a petalinux workspace](linux/petalinux/Cleaning%20up%20a%20petalinux%20workspace.md)
 [Using static ip with Petalinux](linux/petalinux/Using%20static%20ip%20with%20Petalinux.md)
 
+### uBoot
+[How to list the content of partitions in u-boot](How%20to%20list%20the%20content%20of%20partitions%20in%20u-boot.md)
+
 ### Esp32
 [How to build esp32 in docker and flash device in docker](How%20to%20build%20esp32%20in%20docker%20and%20flash%20device%20in%20docker.md)
 

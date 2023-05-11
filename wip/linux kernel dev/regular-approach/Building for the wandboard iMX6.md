@@ -1,10 +1,10 @@
 ---
 creation date: 2022-12-16 22:51
 modification date: Friday, 16th December 2022, 22:51:44
-tags: 
+tags: engineering/board/wandboard, engineering/embedded/linux
 ---
 
-# Untitled
+# Building for the wandboard iMX6
 
 ```
 1  ls
@@ -118,6 +118,91 @@ tags:
   109  ls
   110  history
 ```
+
+``` shell
+vagrant up
+vagrant ssh
+
+export CC=/vagrant/gcc-arm-11.2-2022.02-aarch64-arm-none-linux-gnueabihf/bin/arm-none-linux-gnueabihf-
+```
+
+### building u-boot
+``` shell
+git clone -b v2019.04 https://github.com/u-boot/u-boot --depth=1
+cd u-boot
+
+wget -c https://github.com/eewiki/u-boot-patches/raw/master/v2019.04/0001-wandboard-uEnv.txt-bootz-n-fixes.patch
+patch -p1 < 0001-wandboard-uEnv.txt-bootz-n-fixes.patch
+
+make ARCH=arm CROSS_COMPILE=${CC} distclean
+make ARCH=arm CROSS_COMPILE=${CC} wandboard_defconfig
+make ARCH=arm CROSS_COMPILE=${CC}
+
+```
+
+### Making the sd card
+
+``` shell
+# lsblk to find the correct sd card
+export DISK=/dev/sdb
+sudo dd if=/dev/zero of=${DISK} bs=1M count=10
+sudo dd if=./u-boot/SPL of=${DISK} seek=1 bs=1k
+sudo dd if=./u-boot/u-boot.img of=${DISK} seek=69 bs=1k
+
+sudo sfdisk ${DISK} <<-__EOF__
+1M,,L,*
+__EOF__
+
+sudo mkfs.ext4 -L rootfs ${DISK}1
+sudo mount ${DISK}1 /media/rootfs/
+
+export kernel_version=5.4.209-armv7-x65
+
+sudo tar xfvp ./*-*-*-armhf-*/armhf-rootfs-*.tar -C /media/rootfs/
+sync
+
+sudo sh -c "echo 'uname_r=${kernel_version}' >> /media/rootfs/boot/uEnv.txt"
+
+sudo sh -c "echo 'cmdline=video=HDMI-A-1:1024x768@60e' >> /media/rootfs/boot/uEnv.txt"
+
+sudo cp -v ./kernelbuildscripts/deploy/${kernel_version}.zImage /media/rootfs/boot/vmlinuz-${kernel_version}
+
+sudo mkdir -p /media/rootfs/boot/dtbs/${kernel_version}/
+
+sudo tar xfv ./kernelbuildscripts/deploy/${kernel_version}-dtbs.tar.gz -C /media/rootfs/boot/dtbs/${kernel_version}/
+
+sudo tar xfv ./kernelbuildscripts/deploy/${kernel_version}-modules.tar.gz -C /media/rootfs/
+
+sudo sh -c "echo '/dev/mmcblk2p1  /  auto  errors=remount-ro  0  1' >> /media/rootfs/etc/fstab"
+
+sync
+
+sudo umount /media/rootfs
+
+
+```
+  330  sudo dd if=/dev/zero of=${DISK} bs=1M count=10
+  331  export DISK=/dev/sdb
+  332  sudo dd if=/dev/zero of=${DISK} bs=1M count=10
+  333  #user@localhost:~$
+  334  sudo dd if=./u-boot/SPL of=${DISK} seek=1 bs=1k
+  335  sudo dd if=./u-boot/u-boot.img of=${DISK} seek=69 bs=1k
+  336  #sfdisk >= 2.26.x
+  337  sudo sfdisk ${DISK} <<-__EOF__
+1M,,L,*
+__EOF__
+
+  338  lsblk
+  339  sudo dd if=/dev/zero of=${DISK} bs=1M count=10
+  340  lsblk
+  341  sudo dd if=./u-boot/SPL of=${DISK} seek=1 bs=1k
+  342  sudo dd if=./u-boot/u-boot.img of=${DISK} seek=69 bs=1k
+  343  sudo sfdisk ${DISK} <<-__EOF__
+1M,,L,*
+__EOF__
+
+  344  sudo mkfs.ext4 -L rootfs ${DISK}1
+  345  sudo mount ${DISK}1 /media/rootfs/
 
 ---
 #### references

@@ -4,11 +4,11 @@ modification date: Friday, 16th December 2022, 16:13:01
 tags: engineering/embedded, engineering/yocto, engineering/board/wandboard
 ---
 
-# Building embedded linux using yocto
+# Building embedded Linux using yocto
 
 ## Rational
 
-I am trying to learn how to load linux on the wandboard.
+I am trying to learn how to load Linux on the wandboard.
 This tutorial walks me through all of it.
 
 ## Problem
