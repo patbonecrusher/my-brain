@@ -36,6 +36,7 @@
 [Disable code signature verifications altogether inside the terminal](macOS/Disable%20code%20signature%20verifications%20altogether%20inside%20the%20terminal.md)
 [Bluetooth keeps going to sleep after 5 seconds](macOS/Bluetooth%20keeps%20going%20to%20sleep%20after%205%20seconds.md)
 [How to get wifi signal strength in Macos](macOS/How%20to%20get%20wifi%20signal%20strength%20in%20Macos.md)
+[How to install older version of a recipe](How%20to%20install%20older%20version%20of%20a%20recipe.md)
 
 ---
 ## NodeJS
