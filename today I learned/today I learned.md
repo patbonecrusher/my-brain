@@ -87,6 +87,10 @@
 ### serial port software
 [Picocom as a serial monitor replacement](Picocom%20as%20a%20serial%20monitor%20replacement.md)
 
+### remoting
+[How to setup VNC on a Ubuntu box](How%20to%20setup%20VNC%20on%20a%20Ubuntu%20box.md)
+
+
 ---
 ## Web dev
 [Creating a vite and react app](web_dev/Creating%20a%20vite%20and%20react%20app.md)
