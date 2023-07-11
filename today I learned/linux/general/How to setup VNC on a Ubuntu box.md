@@ -28,6 +28,6 @@ gsettings set org.gnome.Vino vnc-password $(echo -n 'thepassword'|base64)
 WaylandEnable=false
 DefaultSession=gnome-xorg.desktop
 
-# Reboot the system so that the settings take effect sudo reboot
-
+# Reboot the system so that the settings take effect
+sudo reboot
 ```

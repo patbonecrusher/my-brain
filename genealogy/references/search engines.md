@@ -10,6 +10,25 @@ tags: genealogy, genealogy/references, genealogy/search-engine
 https://www.histoiredemaska.com/histoire/histoire-regionale/histoire-d-ici/histoire-d-ici/?timeline=2023-01
 
 
+```cardlink
+url: https://gw.geneanet.org/lucillelafontai?lang=en&m=P&v=catherine
+title: "Brazeau et Lafontaine (genealogy)"
+description: "View the genealogy \"Brazeau et Lafontaine\" made by Yves BRAZEAU (lucillelafontai)."
+host: gw.geneanet.org
+favicon: https://static.geneanet.org/geneweb/favicon.ico
+image: https://www.geneanet.org/public/img/social/img_genealogical_tree.jpg
+```
+
+
+```cardlink
+url: https://fillesduroi.org/cpage.php?pt=9
+title: "La Société des Filles du roi et soldats du Carignan - List of KING'S DAUGHTERS"
+description: "La Société des Filles du roi et soldats du Carignan is a heritage association dedicated to the King’s Daughters and Carignan soldiers of New France.  We promote and share research on these pioneers."
+host: fillesduroi.org
+```
+
+
+
 Family Search: [FamilySearch • Free Family Trees and Genealogy Archives — FamilySearch.org](https://www.familysearch.org/)
 Nos Origines: [Généalogie du Québec et d’Amérique française](https://www.nosorigines.qc.ca)
 Geneanet: https://gw.geneanet.org/rdallaire?lang=en&n=girard&oc=22&p=francois&type=tree
