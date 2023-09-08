@@ -7,6 +7,23 @@ tags: genealogy, genealogy/references, genealogy/search-engine
 # Search site
 
 ---
+[Quebec parishes's list sorted by name.](https://www.prdh-igd.com/en/ListeParoissesSuivantNomUsuel)
+
+```cardlink
+url: https://www.genealogiequebec.com/fr/lafrance/carte
+title: "Carte des paroisses catholiques du Québec jusqu'en 1918"
+host: www.genealogiequebec.com
+```
+
+
+```cardlink
+url: http://www.originis.ca/paroisse_chrono.html
+title: "Paroisses par ordre chronologique"
+host: www.originis.ca
+```
+
+
+---
 https://www.histoiredemaska.com/histoire/histoire-regionale/histoire-d-ici/histoire-d-ici/?timeline=2023-01
 
 
@@ -26,6 +43,18 @@ title: "La Société des Filles du roi et soldats du Carignan - List of KING'S D
 description: "La Société des Filles du roi et soldats du Carignan is a heritage association dedicated to the King’s Daughters and Carignan soldiers of New France.  We promote and share research on these pioneers."
 host: fillesduroi.org
 ```
+
+
+
+```cardlink
+url: https://www.repertoiredesdefunts.com/lieu.asp?lieu=33
+title: "Cimeti�re de Saint-Ours - R�pertoire des d�funts - D�tails d'un lieu"
+description: "Cimeti�re de Saint-Ours : R�pertoire des d�funts :  Fiche d�taill�e d'un lieu : Coordonn�es : Carte : Documentation et plan : �v�nements : Points de service : Historique : Patrimoine : Demande de changements ou informations"
+host: www.repertoiredesdefunts.com
+favicon: https://www.repertoiredesdefunts.com/images/favicon.ico
+image: https://www.repertoiredesdefunts.com/document.asp?GuidFichier=E981B729-AF7C-43BD-9F93-85FD3F8199C0
+```
+
 
 
 

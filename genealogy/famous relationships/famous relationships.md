@@ -8,3 +8,4 @@ tags: genealogy/famous_relationships
 
 [les orgues Casavant](les%20orgues%20Casavant.md)
 
+Le frere de mon ancetre Marie-Rose Ouimet, Gideon, a ete le 2ieme premier ministre du Quebec.
