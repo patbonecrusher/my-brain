@@ -41,6 +41,7 @@
 ---
 ## NodeJS
 [Digital envelop routines webpack error](nodejs/Digital%20envelop%20routines%20webpack%20error.md)
+[How to print line number in console.log](How%20to%20print%20line%20number%20in%20console.log.md)
 
 ---
 ## Cloud
