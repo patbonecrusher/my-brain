@@ -1,0 +1,1 @@
+aws iot list-things --attribute-name=location --attribute-value=demo-atlanta

@@ -61,6 +61,9 @@
 ### Functional programming
 [How to use print to debug functional pipeline](functional%20programming/How%20to%20use%20print%20to%20debug%20functional%20pipeline.md)
 
+### C++
+[How to do callback in c++ the new way](How%20to%20do%20callback%20in%20c++%20the%20new%20way.md)
+
 ---
 ## Devops
 

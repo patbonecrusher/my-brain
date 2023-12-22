@@ -8,6 +8,141 @@
 [the modern cli stack](https://danielgafni.medium.com/the-modern-linux-cli-stack-46253688b53d)
 
 
+
+```cardlink
+url: https://medium.com/macoclock/as-a-programmer-i-beat-boredom-using-these-11-mac-homebrew-tools-5c9b04495e57
+title: "As a Programmer, I Beat Boredom Using these 11 Mac Homebrew Tools"
+description: "Let’s beat boredom like an actual programmer"
+host: medium.com
+favicon: https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png
+image: https://miro.medium.com/v2/resize:fit:1200/1*EECsn-CvQaqW9mLOZscTDg.png
+```
+
+Section about hblock document and make part of brew udate workflow
+
+```cardlink
+url: https://github.com/drhelius/Gearcoleco/blob/main/platforms/desktop-shared/Makefile.common
+title: "Gearcoleco/platforms/desktop-shared/Makefile.common at main · drhelius/Gearcoleco"
+description: "ColecoVision emulator for macOS, Raspberry Pi, Windows, Linux, BSD and RetroArch. - drhelius/Gearcoleco"
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/8dd78db7dd7cef3e9d15e9b65f96a9f84aa56106f44c4683ed23f3e538a1f911/drhelius/Gearcoleco
+```
+
+
+```cardlink
+url: https://patrickpassarella.com/blog/creating-electron-react-app
+title: "Electron and React integration done right"
+description: "Creating an updated Electron + React app, learning how to communicate between them, and how to build for cross-platform"
+host: patrickpassarella.com
+image: https://patrickpassarella.com/static/07e284aeb527d9e207a9ac9f18db7f50/cover.jpg
+```
+
+
+```cardlink
+url: https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo
+title: "Functional Programming with TypeScript"
+description: "Welcome to our comprehensive course on functional programming using TypeScript! In this playlist, we’ll be taking a deep dive into the world of functional pr..."
+host: www.youtube.com
+favicon: https://www.youtube.com/s/desktop/bd3558ba/img/favicon_32x32.png
+image: https://i.ytimg.com/vi/Z3PLwD3iebg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCT_iWzJZAv_2WuY45deDZxvWQVMg&days_since_epoch=19690
+```
+
+
+
+```cardlink
+url: https://www.youtube.com/watch?v=Q0aVbqim5pE&t=1082s
+title: "What the Heck Are Monads?!"
+description: "Today, I'm going to take a deep dive into monads. They’re a well-known concept in functional programming languages like Haskell, but are they useful elsewher..."
+host: www.youtube.com
+favicon: https://www.youtube.com/s/desktop/bd3558ba/img/favicon_32x32.png
+image: https://i.ytimg.com/vi/Q0aVbqim5pE/maxresdefault.jpg
+```
+
+
+```cardlink
+url: https://github.com/nkolban/esp32-snippets/tree/master
+title: "GitHub - nkolban/esp32-snippets: Sample ESP32 snippets and code fragments"
+description: "Sample ESP32 snippets and code fragments. Contribute to nkolban/esp32-snippets development by creating an account on GitHub."
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/8d9cb6f0c05f797eaada3e6c63281f4543e4135728d6a15a8f77423ea862da19/nkolban/esp32-snippets
+```
+
+
+```cardlink
+url: https://github.com/rvanwijnen/spectral.js
+title: "GitHub - rvanwijnen/spectral.js: Spectral.js is a paint like color mixing library."
+description: "Spectral.js is a paint like color mixing library. Contribute to rvanwijnen/spectral.js development by creating an account on GitHub."
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/eeb66d3f60ee5b8753d4dcacae95501403fdb0a70c395d6af87ab5ad2e472792/rvanwijnen/spectral.js
+```
+
+
+
+```cardlink
+url: https://blog.devgenius.io/a-developers-dilemma-navigating-rust-and-python-6f4e27d96d3d
+title: "A Developer’s Dilemma: Navigating Rust 🦀 and Python 🐍"
+description: "As developers, the choice of programming language is a compass guiding us through the vast landscapes of data analysis and machine…"
+host: blog.devgenius.io
+favicon: https://miro.medium.com/v2/resize:fill:256:256/1*CvejhRq3NYsivxILYXEdfA.jpeg
+image: https://miro.medium.com/v2/da:true/resize:fit:1024/0*WWQhesXsdj3Rl0zi
+```
+
+
+```cardlink
+url: https://github.com/crappyrules/esp32-flash-tool
+title: "GitHub - crappyrules/esp32-flash-tool: A simplify flashing tool of ESP32 boards on multiple platforms."
+description: "A simplify flashing tool of ESP32 boards on multiple platforms. - GitHub - crappyrules/esp32-flash-tool: A simplify flashing tool of ESP32 boards on multiple platforms."
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/110e9d50c15e869e934c8edb12521418679f83d6485f9bdf7e1e238cc27c46cd/crappyrules/esp32-flash-tool
+```
+
+```cardlink
+url: https://react.dev/blog/2023/03/16/introducing-react-dev
+title: "Introducing react.dev – React"
+description: "The library for web and native user interfaces"
+host: react.dev
+image: https://react.dev/images/og-blog.png
+```
+
+
+
+```cardlink
+url: https://github.com/risinek/esp32-wifi-penetration-tool
+title: "GitHub - risinek/esp32-wifi-penetration-tool: Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks."
+description: "Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks. - GitHub - risinek/esp32-wifi-penetration-tool: Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi net..."
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://repository-images.githubusercontent.com/354963447/3f36eb80-b3d2-11eb-90b8-666bda5af616
+```
+
+
+
+```cardlink
+url: https://github.com/lmarzen/esp32-weather-epd
+title: "GitHub - lmarzen/esp32-weather-epd: A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API."
+description: "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. - GitHub - lmarzen/esp32-weather-epd: A low-power E-Paper weather display powered by an ESP..."
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/af9a75376b087d989dba544d85dda769139ce8e72d1edacec559f409c18eed7e/lmarzen/esp32-weather-epd
+```
+
+
+
+```cardlink
+url: https://github.com/nkolban/esp32-snippets/blob/master/console/test_linenoise.cpp
+title: "esp32-snippets/console/test_linenoise.cpp at master · nkolban/esp32-snippets"
+description: "Sample ESP32 snippets and code fragments. Contribute to nkolban/esp32-snippets development by creating an account on GitHub."
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/8d9cb6f0c05f797eaada3e6c63281f4543e4135728d6a15a8f77423ea862da19/nkolban/esp32-snippets
+```
+
+
+
 This one is awesome, lots of good stuff
 ```cardlink
 url: https://github.com/bew/dotfiles/tree/main/gui
