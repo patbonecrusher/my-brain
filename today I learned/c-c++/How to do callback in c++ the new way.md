@@ -7,14 +7,14 @@ tags:
   - computer/language/cpp
 ---
 
-## The C++ 11 way
+## The C++ 13 way
+
+`g++ -std=c++13 main.cpp`
 
 ``` c++
 #include <stdio.h>
 #include <stdlib.h>
 #include <functional>
-
-  
 
 typedef int nm_event_t;
 
@@ -67,7 +67,9 @@ int main() {
 }
 ```
 
-The C++17 way
+## The C++17 way
+
+`g++ -std=c++17 main.cpp`
 ```c++
 #include <stdio.h>
 #include <stdlib.h>
