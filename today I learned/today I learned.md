@@ -64,6 +64,9 @@
 ### C++
 [How to do callback in c++ the new way](How%20to%20do%20callback%20in%20c++%20the%20new%20way.md)
 
+### Cmake
+[How to compile latest cmake on a pi](How%20to%20compile%20latest%20cmake%20on%20a%20pi.md)
+
 ---
 ## Devops
 
