@@ -57,6 +57,7 @@
 
 ### Rust
 [Repeating timer in rust](rust/Repeating%20timer%20in%20rust.md)
+[Blinking LED on STM32 with Rust](Blinking%20LED%20on%20STM32%20with%20Rust.md)
 
 ### Functional programming
 [How to use print to debug functional pipeline](functional%20programming/How%20to%20use%20print%20to%20debug%20functional%20pipeline.md)
