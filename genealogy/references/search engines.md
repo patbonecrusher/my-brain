@@ -112,3 +112,15 @@ https://www.geni.com/projects/Old-Historic-Families-of-Lancashire/15657
 [Eccles, Lancashire Genealogy • FamilySearch](https://www.familysearch.org/wiki/en/Eccles,_Lancashire_Genealogy)
 [Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current - Ancestry.co.uk](https://search.ancestry.co.uk/cgi-bin/sse.dll?dbid=60541&h=351290&indiv=try&o_cvc=Image:OtherRecord)
 [Richard F. Farnsworth (1584-1630) - Find A Grave Memorial](https://www.findagrave.com/memorial/41583164/richard-f.-farnsworth)
+
+---
+## French site
+
+```cardlink
+url: https://archives.dordogne.fr/
+title: "Archives départementales de la Dordogne"
+description: "Les Archives ont pour mission la collecte des documents (versements administratifs, dons, dépôts), leur tri et leur classement, leur conservation (protection contre les dégradations) et leur communication au public."
+host: archives.dordogne.fr
+favicon: https://archives.dordogne.fr/instance/archives_24/images/icones/favicon.png?cb7272
+```
+

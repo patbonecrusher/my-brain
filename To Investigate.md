@@ -7,6 +7,33 @@
 
 [the modern cli stack](https://danielgafni.medium.com/the-modern-linux-cli-stack-46253688b53d)
 
+```cardlink
+url: https://apollolabsblog.hashnode.dev/embassy-on-esp-timers?utm_source=www.theembeddedrustacean.com&utm_medium=newsletter&utm_campaign=the-embedded-rustacean-issue-12
+title: "Embassy on ESP: Timers"
+description: "This blog post is the fifth of a multi-part series of posts where I will explore various peripherals of the ESP32 using the embedded Rust embassy framework.Prior posts include (in order of publishing):Embassy on ESP: Getting StartedEmbassy on E..."
+host: apollolabsblog.hashnode.dev
+favicon: https://cdn.hashnode.com/res/hashnode/image/upload/v1646726618249/0wE5N1hES.png?auto=compress,format&format=webp&fm=png
+image: https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1705692826738%2F659bf478-5792-48ba-b364-654fa36c6a14.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng
+```
+
+
+```cardlink
+url: https://bitbashing.io/rust-http.html?utm_source=www.theembeddedrustacean.com&utm_medium=newsletter&utm_campaign=the-embedded-rustacean-issue-12
+title: "Unsafe at Any Speed: Tradeoffs and values in the Rust ecosystem"
+description: "Yet another programming blog. Thoughts on software and related misadventures."
+host: bitbashing.io
+image: https://assets.bitbashing.io/images/bitset.png
+```
+
+```cardlink
+url: https://baincapitalventures.com/insight/why-more-python-developers-are-using-rust-for-building-libraries/?utm_source=www.theembeddedrustacean.com&utm_medium=newsletter&utm_campaign=the-embedded-rustacean-issue-12
+title: "The Python Rust-aissance"
+description: "Companies like Polars are showing how with Rust, Python developers now have a better, smoother path towards building high-performance libraries."
+host: baincapitalventures.com
+favicon: https://s41342.pcdn.co/wp-content/uploads/2022/04/cropped-favicon-32x32.png
+image: https://s41342.pcdn.co/wp-content/uploads/2024/01/crab-and-snake.png
+```
+
 
 
 ```cardlink

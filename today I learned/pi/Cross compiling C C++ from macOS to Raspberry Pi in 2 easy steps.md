@@ -69,6 +69,32 @@ In order to compile it, we launch the clang compiler that we installed with Home
 -o hello \
 hello.cpp
 
+armv8-rpi4-linux-gnueabihf-gcc main.c \
+--sysroot=/var/lib/schroot/chroots/rpizero-bullseye-armhf \
+-o main
 
+/home/pat/x-tools/armv8-rpi4-linux-gnueabihf/bin/armv8-rpi4-linux-gnueabihf-gcc \ 
+  --sysroot=/var/lib/schroot/chroots/rpizero-bullseye-armhf   
+  -mcpu=cortex-a72 -mfpu=neon-fp-armv8 -mfloat-abi=hard  -o CMakeFiles/cmTC_ab883.dir/testCCompiler.c.o -c /home/pat/repos/nortis_perfusion_source/PerfusionHMI/buildp/CMakeFiles/CMakeTmp/testCCompiler.c
+
+clang++ \
+--target=armv8-rpi4-linux-gnueabihf \
+-nostdinc++ \
+-cxx-isystem $sysroot/usr/include/c++/10 \
+-cxx-isystem $sysroot/usr/include/arm-linux-gnueabihf/c++/10 \
+-isystem $sysroot/usr/include/c++/10  \
+--sysroot=$sysroot \
+-isystem=$sysroot/usr/include/c++/10 \
+-isystem=$sysroot/usr/include/c++/10/bits \
+-isystem=$sysroot/usr/include/arm-linux-gnueabihf/c++/10 \
+-I$sysroot/usr/include/c++/10 \
+-I$sysroot/usr/include/c++/10/bits \
+-L$sysroot/usr/lib/gcc/arm-linux-gnueabihf/10 \
+-L$sysroot/lib/arm-linux-gnueabihf \
+-L$sysroot/usr/lib/arm-linux-gnueabihf \
+-B$sysroot/usr/lib/gcc/arm-linux-gnueabihf/10 \
+--gcc-toolchain=`~/x-tools/armv8-rpi4-linux-gnueabihf/bin` \
+-o main \
+main.c
 
 ```

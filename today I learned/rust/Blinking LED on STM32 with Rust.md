@@ -148,3 +148,18 @@ vagrant@vagrant:/vagrant/examples/stm32h7$ cargo run --bin blinky --release
 └─ blinky::____embassy_main_task::{async_fn#0} @ src/bin/blinky.rs:18
 1.000030 INFO  low
 ```
+
+---
+### Pi Pico
+
+I followed the instruction from 
+```cardlink
+url: https://github.com/rp-rs/rp2040-project-template/blob/main/debug_probes.md
+title: "rp2040-project-template/debug_probes.md at main · rp-rs/rp2040-project-template"
+description: "A basic rp2040-hal project with blinky and rtt logging example code. With this you can quickly get started on a new rp2040 project - rp-rs/rp2040-project-template"
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/fdea2cc9bb7c8da8662511594e8b5a7161bed3b7d03a38f88ab84aa34a55f6b9/rp-rs/rp2040-project-template
+```
+
+To configure my picoprobe with the correct firmware to be detected by probe-rs.

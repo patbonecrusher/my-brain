@@ -54,6 +54,7 @@
 
 ### Python
 [Python string interpolation tricks](python/Python%20string%20interpolation%20tricks.md)
+[How to callback from C++ into python](How%20to%20callback%20from%20C++%20into%20python.md)
 
 ### Rust
 [Repeating timer in rust](rust/Repeating%20timer%20in%20rust.md)
@@ -67,6 +68,10 @@
 
 ### Cmake
 [How to compile latest cmake on a pi](How%20to%20compile%20latest%20cmake%20on%20a%20pi.md)
+
+---
+## Pi
+[How to add pcie + nvme to pi5](How%20to%20add%20pcie%20+%20nvme%20to%20pi5.md)
 
 ---
 ## Devops
@@ -98,6 +103,9 @@
 
 ### remoting
 [How to setup VNC on a Ubuntu box](How%20to%20setup%20VNC%20on%20a%20Ubuntu%20box.md)
+
+### others
+[how to get pcie bar address on linux](how%20to%20get%20pcie%20bar%20address%20on%20linux.md)
 
 
 ---
