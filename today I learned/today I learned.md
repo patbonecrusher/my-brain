@@ -4,6 +4,7 @@
 [How to reset submodules](git/How%20to%20reset%20submodules.md)
 [Delete all tags](git/Delete%20all%20tags.md)
 [How to pass SSH Key in git command](git/How%20to%20pass%20SSH%20Key%20in%20git%20command.md)
+[How to copy one git repo from one remote to the other](How%20to%20copy%20one%20git%20repo%20from%20one%20remote%20to%20the%20other.md)
 
 ---
 ## Embedded
@@ -55,6 +56,7 @@
 ### Python
 [Python string interpolation tricks](python/Python%20string%20interpolation%20tricks.md)
 [How to callback from C++ into python](How%20to%20callback%20from%20C++%20into%20python.md)
+[Make python windows exe using wine](Make%20python%20windows%20exe%20using%20wine.md)
 
 ### Rust
 [Repeating timer in rust](rust/Repeating%20timer%20in%20rust.md)
