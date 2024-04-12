@@ -1,0 +1,1 @@
+![](Oliver_Cromwell_by_Samuel_Cooper-247x300.jpg)

@@ -8,4 +8,4 @@ To get watchguard to work on macOS, I had to get the watchguard website cert and
 
 ![](Fireware%20web%20CA.cer)
 
-Message from my script:
+![](Pasted%20image%2020240404214843.png)

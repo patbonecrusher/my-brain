@@ -6,20 +6,20 @@ tags:
 ---
 # Relation a Michel Dubuc
 
-| Generation | Père | Mère |
-| ---- | ---- | ---- |
-| Moi | Patrick Laplante | Julie Levasseur |
-| Parent | Jean-Claude Laplante | Marie-Claire Phaneuf |
-| Grand-Parent | Laurette Seyer | Ernest Laplante |
-| 1-Arr-Grand-Parent | Marie Courchesne | Henri Seyer |
-| 2-Arr-Grand-Parent | Virginie Chicoine | Fortunat Josephat Courchesne |
-| 3-Arr-Grand-Parent | Joseph Marie Chicoine | Marie-Elise Cloutier |
-| 4-Arr-Grand-Parent | Julie Fournier dite Prefontaine | Joseph Chicoine |
-| 5-Arr-Grand-Parent | Alexis Fournier dit Prefontaine | Marie Charlotte Chicoine |
-| 6-Arr-Grand-Parent | Charlotte Trudeau | Charles Fournier dit Prefontaine |
-| 7-Arr-Grand-Parent | Marie-Michelle Dubuc | Toussaint Trudeau |
-| 8-Arr-Grand-Parent | Michel Dubuc | Marie Charlotte Bougret |
-| 9-Arr-Grand-Parent | Michel Dubuc | Marie Baudin |
+| Generation         | Père                            | Mère                             |
+| ------------------ | ------------------------------- | -------------------------------- |
+| Moi                | Patrick Laplante                | Julie Levasseur                  |
+| Parent             | Jean-Claude Laplante            | Marie-Claire Phaneuf             |
+| Grand-Parent       | Laurette Seyer                  | Ernest Laplante                  |
+| 1-Arr-Grand-Parent | Marie Courchesne                | Henri Seyer                      |
+| 2-Arr-Grand-Parent | Virginie Chicoine               | Fortunat Josephat Courchesne     |
+| 3-Arr-Grand-Parent | Joseph Marie Chicoine           | Marie-Elise Cloutier             |
+| 4-Arr-Grand-Parent | Julie Fournier dite Prefontaine | Joseph Chicoine                  |
+| 5-Arr-Grand-Parent | Alexis Fournier dit Prefontaine | Marie Charlotte Chicoine         |
+| 6-Arr-Grand-Parent | Charlotte Trudeau               | Charles Fournier dit Prefontaine |
+| 7-Arr-Grand-Parent | Marie-Michelle Dubuc            | Toussaint Trudeau                |
+| 8-Arr-Grand-Parent | Michel Dubuc                    | Marie Charlotte Bougret          |
+| 9-Arr-Grand-Parent | Michel Dubuc                    | Marie Baudin                     |
 *Joseph Chicoine et Marie Charlotte Chicoine sont third cousin (meme arrière arrière grand parents)*
 ### DESCRIPTION OF HISTORIC PLACE
 

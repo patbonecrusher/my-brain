@@ -9,3 +9,11 @@ favicon: https://www.lowes.com/favicon.ico
 image: https://mobileimages.lowes.com/productimages/bcd5dea7-dbe8-4d7e-b806-7ce139a02d4b/50012539.jpg?size=sm
 ```
 
+
+```cardlink
+url: https://www.rge.com/smartenergy/rebatesandprograms/residentialrebates
+title: "Residential Rebates - rge - Avangrid"
+description: "Residential Rebates"
+host: www.rge.com
+favicon: https://www.rge.com/o/avangrid-theme/images/favicon.ico
+```
