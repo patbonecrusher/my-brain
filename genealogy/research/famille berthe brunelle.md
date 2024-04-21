@@ -94,11 +94,6 @@ je suis loin a droite... ton arriere grand mere elisabeth phaneuf c'est la plus 
 
 Wowww ![😅](https://static.xx.fbcdn.net/images/emoji.php/v9/t53/1/16/1f605.png) 
 
-
-![Open photo](https://scontent.xx.fbcdn.net/v/t1.15752-9/340495845_1976035252742084_463681323279974602_n.png?stp=dst-png_s206x206&_nc_cat=103&ccb=1-7&_nc_sid=aee45a&_nc_ohc=MsCDz9By3SQAX_AtjLX&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTLmQ6dR9ReTeAuCtG-0XC6p2yswoKoR1_fJVlz2E8PFw&oe=645CEAF8)
-
-](https://www.facebook.com/messenger_media/?attachment_id=1976035249408751&message_id=mid.%24cAAAAAAasdOCNoiggN2HcOLViGHL1&thread_id=611423414)
-
 ![👍](https://static.xx.fbcdn.net/images/emoji.php/v9/tfc/1/16/1f44d.png)
 
 Wow en touca si tu as d'autre question gene toi pas et quaund tu aura terminé, jaimerais bien l'avoir afin de regarder tous le monde d'ou on vient

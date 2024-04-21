@@ -76,7 +76,7 @@ The Nasons were off to a strong start in the New World, spreading north to Canad
 
 ---
 # Descendants of Jacques NASON dit RITCHOT in New France
-![](NoelRitchot.jpg)        Contrary to what Marcel Fournier suggests in his book De la Nouvelle-Angleterre à la Nouvelle-France (about anglo-american captives) Richard Nason (Neilson) did not fade into the indian community. He is the same captive who became Jacques Ritchot, married to Elisabeth Dubois dit Brisebois in 1703 at St-Francois-du-Lac. He obtained his French citizenship in May 1710, along with many other captives, and settled into his society of adoption. He was among the founders of the parish of St-Michel d'Yamaska, where he was buried on April 8, 1729.
+![](NoelRitchot.jpg.md)        Contrary to what Marcel Fournier suggests in his book De la Nouvelle-Angleterre à la Nouvelle-France (about anglo-american captives) Richard Nason (Neilson) did not fade into the indian community. He is the same captive who became Jacques Ritchot, married to Elisabeth Dubois dit Brisebois in 1703 at St-Francois-du-Lac. He obtained his French citizenship in May 1710, along with many other captives, and settled into his society of adoption. He was among the founders of the parish of St-Michel d'Yamaska, where he was buried on April 8, 1729.
 Elisabeth Dubois survived her husband 14 years, as she died and was buried January 17, 1742 in St-Michel d'Yamaska. On her mother's side, Elisabeth Dubois descends from Anne-Julienne Dumont, born in Notre-Dame du Maixe (ar. Lunéville, Meurthe-et-Moselle), in the old french province of Lorraine. Which is partily correct with the oral tradition that sets our ancestry is in the East part of France.
 
 Jacques Ritchot and Elisabeth Dubois had12 children :
@@ -99,8 +99,27 @@ The name Ritchot survived through this day by the marriages of two of Jacques' f
 A great-grandson of Jacques, Joseph-Michel, son of Michel Ritchot and Marguerite Crevier, hired as a voyageur in 1799, settled in St-Vital (now part of Winnipeg), Manitoba with his Metis country wife Josephte, the daughter of Antoine Mailloux or Mailhot and a Sarcee indian, whom he married in Fort des Prairies (now Edmonton ALTA) c. 1812, and left descendants who can still be traded to this day in many Western provinces of Canada and in the american Mid-West. His son, Jean-Baptiste (aka Janvier), married to Marie-Anne Chatelain, a Metis, was a member of the Provisional governement of Louis Riel. Oral tradition says he was the Metis who blocked the first Ontarian surveyors, an incident which launched the 1870 Manitoba Metis Rebellion.
 
 Pierre-Louis Ritchot, Jacques' youngest son, and my direct ancestor, married to Marie-Claire Lefebvre, founded his family in Montreal while prusuing his career as a voyageur. He settled in L'Assomption, a parish situated east of Montreal, where he became a prosperous merchant. His descendants can be traced mainly in the Montreal area and in Quebec City, but also in Abitibi-Témiscamingue. A branch of the family migrated in Manitoba in the mid-1880s and 1915. The descencants of Pierre-Louis were mostly in the trade and shop businesses. A notary, Pierre Ritchot, was a close friend of Thomas Chevalier de Lorimier, the famous Quebec Patriot of the 1837 Lower Canada Rebellion. Another of Pierre-Louis notorious descentant is Joseph-Noel Ritchot, a close associate of the Manitoba Metis leader Louis Riel, who became chief negociator with the canadian governement to create the province of Manitoba. He is credited for giving the province its name.
- ![](NoelRitchot_2.jpg) As we can see, many members of the Ritchot family made their mark in the history of Quebec and Canada.
+ ![](NoelRitchot_2.jpg.md) As we can see, many members of the Ritchot family made their mark in the history of Quebec and Canada.
 
 [the end]
 
+---
+#### references
+
+
+```cardlink
+url: https://www.wikitree.com/wiki/Ritchot-28
+title: "Jacques Ritchot (abt.1682-1729) | WikiTree FREE Family Tree"
+description: "Is this your ancestor? Compare DNA and explore genealogy for Jacques Ritchot born abt. 1682 South Berwick, York, Massachusetts Bay died 1729 Yamaska, Canada, Nouvelle-France including ancestors + descendants + 3 photos + 4 genealogist comments + questions + DNA connections + more in the free family tree community."
+host: www.wikitree.com
+```
+
+
 [Descendants of Jacques NASON dit RITCHOT in New France](http://gen-familleritchot.blogspot.com/2007/07/descendants-of-jacques-nason-dit.html)
+
+```cardlink
+url: https://www.francogene.com/ymtx/gfangfna.php?no=008371
+title: "Base"
+host: www.francogene.com
+```
+
