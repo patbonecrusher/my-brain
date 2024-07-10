@@ -42,3 +42,9 @@ Temporary Items
 .obsidian/
 
 # End of https://www.toptal.com/developers/gitignore/api/obsidian
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections

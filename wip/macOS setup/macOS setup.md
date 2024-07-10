@@ -7,6 +7,17 @@ tags: computer, computer/macOS, computer/dotfiles
 
 ![Pasted image 20221022231346](attachments/Pasted%20image%2020221022231346.png)
 
+Very nice setup:
+
+```cardlink
+url: https://medium.com/@devhellomello/new-computer-setup-for-techies-2024-neovim-and-ollama-and-fish-oh-my-60cf3879bad8
+title: "New Computer Setup for Techies 2024: NeoVim and Ollama and fish, oh my!"
+description: "Greetings Cloudlings!!"
+host: medium.com
+favicon: https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png
+image: https://miro.medium.com/v2/resize:fit:1200/1*LuuHR_pBe0q1Spfx3QKPGQ@2x.png
+```
+
 
 
 ![software install](software%20install.md)

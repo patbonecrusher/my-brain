@@ -11,6 +11,8 @@ tags:
 
 `g++ -std=c++13 main.cpp`
 
+This approach is useful for C style callback where you can't capture this in the lambda [].
+
 ``` c++
 #include <stdio.h>
 #include <stdlib.h>
