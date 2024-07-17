@@ -216,8 +216,8 @@ LESON, Anne m. Jean Desmarais
 LETARD, Marie m. Jean Roussin  
 LONGCHAMP, Geneviève m. Jacques Bilodeau  
 LOPPÉ, Renée m. Jean Valiquet dit Laverdure  
-LORGUEIL, Marie m. Toussaint Hunault  
-LORION, Catherine m. Pierre Desautels dit Lapointe, Nicolas Millet dit Le Beauceron, Jean Simon and Pierre Vilain  
+**LORGUEIL, Marie m. Toussaint Hunault**  
+**LORION, Catherine m. Pierre Desautels dit Lapointe, Nicolas Millet dit Le Beauceron, Jean Simon and Pierre Vilain**  
 LOTIER, Catherine m. Mathurin Jousset dit Laloire and Adrien Léger
 
 **M**

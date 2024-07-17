@@ -6,6 +6,8 @@ tags:
 ---
 # Relation a Michel Dubuc
 
+[![File:ZDG - Maison Michel Dubuc 02.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ZDG_-_Maison_Michel_Dubuc_02.jpg/800px-ZDG_-_Maison_Michel_Dubuc_02.jpg?20201026213838)](https://upload.wikimedia.org/wikipedia/commons/a/ab/ZDG_-_Maison_Michel_Dubuc_02.jpg)
+
 | Generation         | Père                            | Mère                             |
 | ------------------ | ------------------------------- | -------------------------------- |
 | Moi                | Patrick Laplante                | Julie Levasseur                  |
@@ -21,6 +23,13 @@ tags:
 | 8-Arr-Grand-Parent | Michel Dubuc                    | Marie Charlotte Bougret          |
 | 9-Arr-Grand-Parent | Michel Dubuc                    | Marie Baudin                     |
 *Joseph Chicoine et Marie Charlotte Chicoine sont third cousin (meme arrière arrière grand parents)*
+
+```cardlink
+url: https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=5038
+title: "HistoricPlaces.ca - HistoricPlaces.ca"
+host: www.historicplaces.ca
+```
+
 ### DESCRIPTION OF HISTORIC PLACE
 
 La maison Michel-Dubuc, constituée en site du patrimoine, est une demeure d'inspiration française construite vers 1690. La résidence en pierre de plan carré, à un étage et demi et au solage peu dégagé, est coiffée d'un toit aigu à deux versants droits. Un corps secondaire est adossé à l'un des murs pignons. La désignation comprend également un bâtiment accessoire et le terrain. L'environnement immédiat de la maison est très urbanisé. Elle est située à proximité de voies passantes, en retrait du boulevard Marie-Victorin, non loin du fleuve Saint-Laurent, dans l'arrondissement municipal du Vieux-Longueuil de la ville de Longueuil.
