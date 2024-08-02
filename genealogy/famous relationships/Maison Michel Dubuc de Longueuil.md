@@ -24,6 +24,16 @@ tags:
 | 9-Arr-Grand-Parent | Michel Dubuc                    | Marie Baudin                     |
 *Joseph Chicoine et Marie Charlotte Chicoine sont third cousin (meme arrière arrière grand parents)*
 
+
+```cardlink
+url: https://www.wikitree.com/wiki/Dubuc-30
+title: "Michel Dubuc (1683-1760) | WikiTree FREE Family Tree"
+description: "Is this your ancestor? Compare DNA and explore genealogy for Michel Dubuc born 1683 Boucherville, Canada, Nouvelle-France died 1760 Longueuil, Canada, Nouvelle-France including ancestors + descendants + 1 genealogist comments + DNA connections + more in the free family tree community."
+host: www.wikitree.com
+image: https://www.wikitree.com/images/og-image.png
+```
+
+
 ```cardlink
 url: https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=5038
 title: "HistoricPlaces.ca - HistoricPlaces.ca"

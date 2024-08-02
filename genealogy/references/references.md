@@ -7,6 +7,15 @@ tags: genealogy, genealogy/references
 [search engines](search%20engines.md)
 
 
+```cardlink
+url: https://conversationsancetres.wordpress.com/2021/12/17/145-louis-hebert-ascendance-par-les-femmes/
+title: "145.  Louis Hébert, ascendance par les femmes"
+description: "Louis Hébert fit deux séjours en Acadie entre 1606 et 1613 avant de  s’installer à Québec en 1617 avec sa femme, Marie Rollet, et leurs enfants, Anne, Guillaume et Guillemette.  Ils étaie…"
+host: conversationsancetres.wordpress.com
+favicon: https://conversationsancetres.wordpress.com/wp-content/uploads/2018/03/cropped-img_20171221_155109.jpg?w=32
+image: https://conversationsancetres.wordpress.com/wp-content/uploads/2021/08/chandeliers-statuts-1464.jpg
+```
+
 
 
 ludger petit
