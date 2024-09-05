@@ -8,6 +8,16 @@ tags: genealogy, genealogy/references
 
 
 ```cardlink
+url: https://lebloguedeguyperron.wordpress.com/2016/06/30/130-liste-des-contrats-dengagement-releves-a-la-rochelle-pour-la-nouvelle-france-au-xviie-siecle/
+title: "130 – Liste des contrats d’engagement relevés à La Rochelle pour la Nouvelle-France au XVIIe siècle"
+description: "Après quelques séjours de recherches aux archives départementales de la Charente-Maritime (AD17) à La Rochelle, j’ai remarqué que plusieurs contrats d’engagement n’avaient pas été relevés par Gabri…"
+host: lebloguedeguyperron.wordpress.com
+favicon: https://lebloguedeguyperron.wordpress.com/wp-content/uploads/2024/07/cropped-perron_guy_2024-1.jpg?w=32
+image: https://lebloguedeguyperron.wordpress.com/wp-content/uploads/2016/06/divers_contrats1.jpg
+```
+
+
+```cardlink
 url: https://conversationsancetres.wordpress.com/2021/12/17/145-louis-hebert-ascendance-par-les-femmes/
 title: "145.  Louis Hébert, ascendance par les femmes"
 description: "Louis Hébert fit deux séjours en Acadie entre 1606 et 1613 avant de  s’installer à Québec en 1617 avec sa femme, Marie Rollet, et leurs enfants, Anne, Guillaume et Guillemette.  Ils étaie…"

@@ -3,20 +3,20 @@ creation date: 2024-07-18 13:44
 modification date: Thursday, 18th July 2024, 13:44:16
 tags: 
 ---
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|**Last**|**First**|**Dit / De**|**Variations**|**Rank**|**Company**|
-|Abbadie|Jean-Vincent d'|Saint-Castin||ensign|Chambly|
-|Achin|André|Saint-André|Archin|soldier|Des Portes|
-|Adhémar|Antoine|Saint-Martin|-|soldier|Saurel|
-|Allard|Julien|LaBarre|Halard|soldier|Saurel|
-|Aly|Vincent|LaRosée|Alix|soldier|Rougemont|
-|Amans|Pierre|-|Amand, Amant|surgeon|Des Portes|
-|Arcouët|Jean|LaJeunesse|Arcourt|soldier|Loubias|
-|Arnaud|François|DesMarchais|Arnauld, Arnault|soldier|Loubias|
-|Audouin|François|LaVerdure|Audoin|soldier|Loubias|
-|Audouin|Pierre|SansSoucy|-|soldier|Loubias|
-|Augrand|Pierre|LaPierre|Augran, Augeron|soldier|Des Portes|
+|          |                 |              |                  |          |             |
+| -------- | --------------- | ------------ | ---------------- | -------- | ----------- |
+| **Last** | **First**       | **Dit / De** | **Variations**   | **Rank** | **Company** |
+| Abbadie  | Jean-Vincent d' | Saint-Castin |                  | ensign   | Chambly     |
+| Achin    | André           | Saint-André  | Archin           | soldier  | Des Portes  |
+| Adhémar  | Antoine         | Saint-Martin | -                | soldier  | Saurel      |
+| Allard   | Julien          | LaBarre      | Halard           | soldier  | Saurel      |
+| Aly      | Vincent         | LaRosée      | Alix             | soldier  | Rougemont   |
+| Amans    | Pierre          | -            | Amand, Amant     | surgeon  | Des Portes  |
+| Arcouët  | Jean            | LaJeunesse   | Arcourt          | soldier  | Loubias     |
+| Arnaud   | François        | DesMarchais  | Arnauld, Arnault | soldier  | Loubias     |
+| Audouin  | François        | LaVerdure    | Audoin           | soldier  | Loubias     |
+| Audouin  | Pierre          | SansSoucy    | -                | soldier  | Loubias     |
+| Augrand  | Pierre          | LaPierre     | Augran, Augeron  | soldier  | Des Portes  |
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|

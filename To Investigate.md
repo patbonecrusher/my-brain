@@ -7,6 +7,15 @@
 
 [the modern cli stack](https://danielgafni.medium.com/the-modern-linux-cli-stack-46253688b53d)
 
+
+```cardlink
+url: https://acroname.com/store/programmable-industrial-switch-s85-rdvr-usbcsw?gad_source=1&gbraid=0AAAAADlaUNep1izXoBadK0zeAdeHxbqWR
+title: "Programmable Industrial 4-port USB Switch for USB-C | Acroname"
+description: "Automate port switching, hot-plug &amp; type-C connector flips. Monitor Vbus &amp; Vconn voltage &amp; current."
+host: acroname.com
+```
+
+
 ```cardlink
 url: https://apollolabsblog.hashnode.dev/embassy-on-esp-timers?utm_source=www.theembeddedrustacean.com&utm_medium=newsletter&utm_campaign=the-embedded-rustacean-issue-12
 title: "Embassy on ESP: Timers"
